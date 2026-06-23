@@ -12,7 +12,9 @@ def main(argv: list[str] | None = None) -> int:
         "-c", "--config", default="config.yaml", help="配置文件路径（默认 config.yaml）"
     )
     sub = parser.add_subparsers(dest="command")
-    sub.add_parser("run", help="跑一次采集并落盘")
+    sub.add_parser("run", help="跑一次采集、评分、过滤、推送")
+    sub.add_parser("report", help="基于当日高价值条目用 DeepSeek 生成简报草稿")
+    sub.add_parser("discuss", help="以当日 digest 为上下文，和 AI 多轮讨论")
 
     args = parser.parse_args(argv)
     command = args.command or "run"
@@ -21,6 +23,20 @@ def main(argv: list[str] | None = None) -> int:
         from .pipeline import run
 
         run(args.config)
+        return 0
+
+    if command == "report":
+        from .config import load_config
+        from .report import generate_report
+
+        generate_report(load_config(args.config))
+        return 0
+
+    if command == "discuss":
+        from .config import load_config
+        from .discuss import run_discuss
+
+        run_discuss(load_config(args.config))
         return 0
 
     parser.print_help()

@@ -27,6 +27,18 @@ class Scorer:
         self.threshold = float(config.get("threshold", 0.0))
         self.freshness_hours = float(config.get("freshness_hours", 24))
         self.keywords = [k.lower() for k in (config.get("keywords") or [])]
+        # 命中任一 blocklist 词的条目直接排除（公开发布场景下过滤 NSFW 等）
+        self.blocklist = [b.lower() for b in (config.get("blocklist") or [])]
+
+    @staticmethod
+    def _haystack(item: Item) -> str:
+        return " ".join([item.id, " ".join(item.tags), item.summary]).lower()
+
+    def is_blocked(self, item: Item) -> bool:
+        if not self.blocklist:
+            return False
+        hay = self._haystack(item)
+        return any(b in hay for b in self.blocklist)
 
     def score(self, item: Item, now: datetime | None = None) -> float:
         now = now or datetime.now(timezone.utc)
@@ -43,13 +55,15 @@ class Scorer:
 
         # 关键词命中（id / 标签 / 摘要），每命中一个加一份
         if self.keywords:
-            hay = " ".join([item.id, " ".join(item.tags), item.summary]).lower()
+            hay = self._haystack(item)
             hits = sum(1 for k in self.keywords if k in hay)
             s += self.w_keyword * hits
 
         return round(s, 4)
 
     def passes(self, item: Item) -> bool:
+        if self.is_blocked(item):
+            return False
         return (item.score if item.score is not None else 0.0) >= self.threshold
 
     def apply(self, items: list[Item], now: datetime | None = None) -> None:

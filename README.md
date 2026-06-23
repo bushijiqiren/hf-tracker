@@ -17,9 +17,25 @@
 ## 当前进度
 
 - ✅ **M1** — 骨架 + HuggingFace 采集 + 归一化 + JSON 落盘
-- ✅ **M2** — SQLite 去重/水位线 + 价值评分过滤 + 推送 Sink（console / Telegram / 邮件 / 飞书）
-- ⬜ M3 — AI 报告生成（读 `latest_digest.json` → 各平台草稿）+ 推送审核
+- ✅ **M2** — SQLite 去重/水位线 + 价值评分过滤（含 NSFW blocklist）+ 推送 Sink（console / Telegram / 邮件 / 飞书）
+- ✅ **M3** — DeepSeek 简报生成（卡片增强 → 核心摘要 → 各平台草稿）+ 人机多轮讨论
 - ⬜ M4 — GitHub Actions 定时部署 + 数据 commit 回仓
+
+## AI 简报与讨论（M3）
+
+需要 DeepSeek API key：`export DEEPSEEK_API_KEY=sk-...`（或写到 config 的 `llm.api_key`）。
+
+```bash
+uv run hf-tracker report     # 抓高价值条目的 model card → DeepSeek 综述 → reports/latest.md
+uv run hf-tracker discuss    # 以当日 digest 为上下文，和 AI 多轮讨论（exit 退出）
+```
+
+- **解决"信息太散"**：`report` 会先抓每条的 model card 正文（`tracker/enrich.py`），
+  喂给 DeepSeek 生成一句话核心摘要，再综述成简报，并产出 V2EX / 即刻 / Twitter/X 三个平台的
+  差异化草稿（草稿供你审核后手动发布）。输出在 `reports/<日期>/<source>.md` 与 `reports/latest.md`。
+- **多轮讨论**：`discuss` 把当日 digest 作为上下文开一个对话 REPL，可追问、对比、深挖。
+- **换模型**：`config.yaml` 的 `llm.model` 改 `deepseek-reasoner`（R1）；换别家 OpenAI 兼容
+  服务改 `llm.base_url` + `model` 即可，代码不动。
 
 ## 工作机制（M2）
 
