@@ -60,3 +60,27 @@ class JsonStorage:
         files.append(str(latest_path))
 
         return {"counts": written, "files": files}
+
+    def write_digest(self, source: str, items: list[Item], day: datetime | None = None) -> str:
+        """写入「有价值条目」子集，供 AI 报告（M3）聚焦分析。
+
+        生成 data/<source>/<日期>/digest.json 与 data/<source>/latest_digest.json。
+        """
+        day = day or datetime.now(timezone.utc)
+        date_str = day.strftime("%Y-%m-%d")
+        ranked = sorted(items, key=lambda i: i.score or 0, reverse=True)
+        digest = {
+            "source": source,
+            "date": date_str,
+            "generated_at": datetime.now(timezone.utc).isoformat(),
+            "count": len(ranked),
+            "items": [json.loads(it.model_dump_json()) for it in ranked],
+        }
+        text = json.dumps(digest, ensure_ascii=False, indent=2)
+
+        day_dir = self.data_dir / source / date_str
+        day_dir.mkdir(parents=True, exist_ok=True)
+        (day_dir / "digest.json").write_text(text, encoding="utf-8")
+        latest_path = self.data_dir / source / "latest_digest.json"
+        latest_path.write_text(text, encoding="utf-8")
+        return str(latest_path)

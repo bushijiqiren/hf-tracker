@@ -1,11 +1,8 @@
 {
   "source": "huggingface",
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T06:56:18.244226+00:00",
-  "counts": {
-    "model": 2,
-    "space": 1
-  },
+  "generated_at": "2026-06-23T06:56:18.247084+00:00",
+  "count": 2,
   "items": [
     {
       "source": "huggingface",
@@ -27,35 +24,6 @@
       "raw": {},
       "fetched_at": "2026-06-23T06:56:17.065669Z",
       "score": 3.9999
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/prawns-district-9-flux1.d-sdxl",
-      "title": "Muapi/prawns-district-9-flux1.d-sdxl",
-      "url": "https://huggingface.co/Muapi/prawns-district-9-flux1.d-sdxl",
-      "author": "Muapi",
-      "created_at": "2026-06-23T06:55:54Z",
-      "updated_at": "2026-06-23T06:56:05Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "flux",
-        "flux.1-d",
-        "base_model:black-forest-labs/FLUX.1-dev",
-        "base_model:adapter:black-forest-labs/FLUX.1-dev",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T06:56:17.065815Z",
-      "score": 0.9997
     },
     {
       "source": "huggingface",

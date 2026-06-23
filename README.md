@@ -17,9 +17,25 @@
 ## 当前进度
 
 - ✅ **M1** — 骨架 + HuggingFace 采集 + 归一化 + JSON 落盘
-- ⬜ M2 — SQLite 去重/水位线 + 价值评分 + 推送 Sink（Telegram / 邮件 / 飞书）
-- ⬜ M3 — AI 报告生成（读 `latest.json` → 各平台草稿）+ 推送审核
+- ✅ **M2** — SQLite 去重/水位线 + 价值评分过滤 + 推送 Sink（console / Telegram / 邮件 / 飞书）
+- ⬜ M3 — AI 报告生成（读 `latest_digest.json` → 各平台草稿）+ 推送审核
 - ⬜ M4 — GitHub Actions 定时部署 + 数据 commit 回仓
+
+## 工作机制（M2）
+
+- **去重 / 水位线**：`tracker/state.py`，SQLite 存于 `data/_state/seen.sqlite`（不提交）。
+  每次只抓上次运行之后的新增，已见过的不重复推送。
+- **价值评分**：`tracker/scoring.py`，按 `config.yaml` 的 `scoring` 段打分，
+  `score >= threshold` 才推送。新建条目下载/点赞多为 0，关键词命中与新鲜度是主要信号。
+- **推送 Sink**：`tracker/sinks/`，`console`（零配置，本地验证用）、`telegram`、`email`、`feishu`。
+  在 `config.yaml` 的 `sinks` 下开关；密钥用 `${ENV}` 从环境变量读。
+
+有价值子集会另存到 `data/<source>/latest_digest.json`，供 M3 的 AI 报告聚焦分析。
+
+## 扩展一个推送渠道
+
+继承 `Sink` 实现 `emit(source, items)`，用 `@register_sink("名字")` 注册，
+在 `tracker/sinks/__init__.py` 导入，再到 `config.yaml` 的 `sinks` 下开开关。
 
 ## 快速开始
 
