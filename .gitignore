@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+*.egg-info/
+build/
+dist/
+
+# 本地配置与密钥
+config.yaml
+.env
+
+# 运行时状态（去重水位线等，M2）——不进 Git
+data/_state/
+*.sqlite
+*.sqlite3
+
+# 系统
+.DS_Store
+
+# 注意：data/<source>/ 下的 JSON 快照与 reports/ 是有意提交的（历史归档），不要忽略
