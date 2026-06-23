@@ -19,7 +19,34 @@
 - ✅ **M1** — 骨架 + HuggingFace 采集 + 归一化 + JSON 落盘
 - ✅ **M2** — SQLite 去重/水位线 + 价值评分过滤（含 NSFW blocklist）+ 推送 Sink（console / Telegram / 邮件 / 飞书）
 - ✅ **M3** — DeepSeek 简报生成（卡片增强 → 核心摘要 → 各平台草稿）+ 人机多轮讨论
-- ⬜ M4 — GitHub Actions 定时部署 + 数据 commit 回仓
+- ✅ **M4** — 本地定时任务常驻进程 + GitHub Actions 云端定时 + 对话结构化保存/检索
+
+## 定时任务（M4）
+
+**本地常驻**（适合开机长期运行的机器）：
+
+```bash
+uv run hf-tracker schedule    # 按 config.yaml 的 schedule 段定时跑（Ctrl-C 退出）
+```
+
+`schedule` 段支持每日时间点 `times: ["09:00","21:00"]` 或固定间隔 `interval_minutes`，
+`run_report: true` 可在每次采集后自动生成简报。
+
+**云端定时**（推荐，免开机）：`.github/workflows/track.yml` 用 cron 触发，
+数据 commit 回仓库形成历史归档。在仓库 Settings → Secrets 配置 `DEEPSEEK_API_KEY`、
+`TELEGRAM_BOT_TOKEN` 等即可。状态（去重水位线）通过 Actions cache 跨次运行保留。
+
+## 对话记录与检索
+
+`discuss` 的每次对话会结构化保存到 `conversations/<日期>/<会话id>.json`，
+并由 AI 自动生成标题/摘要/标签写入 `conversations/index.jsonl` 便于检索：
+
+```bash
+uv run hf-tracker history             # 列出最近会话
+uv run hf-tracker history agent       # 按关键词检索对话正文
+```
+
+对话记录默认仅本地（已 .gitignore），不随仓库公开。
 
 ## AI 简报与讨论（M3）
 

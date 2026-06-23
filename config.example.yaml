@@ -4,6 +4,14 @@
 # 落盘根目录，AI 分析时固定读 <data_dir>/<source>/latest.json
 data_dir: data
 reports_dir: reports
+conversations_dir: conversations   # 人机对话结构化保存目录，供 AI 检索
+
+# 本地定时任务（hf-tracker schedule，常驻进程）
+schedule:
+  times: ["09:00", "21:00"]        # 每天这些时间点跑（本地时区，优先）
+  # interval_minutes: 360          # 或：每隔多少分钟跑一次（与 times 二选一）
+  run_report: false                # 跑完 run 是否接着生成简报（需 DeepSeek key）
+  run_at_start: true               # 启动时先立刻跑一次
 
 # AI 模型（默认 DeepSeek，OpenAI 兼容；换 provider 改 base_url + model 即可）
 llm:

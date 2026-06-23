@@ -2,12 +2,12 @@
   {
     "source": "huggingface",
     "type": "space",
-    "id": "MadhanJ/german-english-translator",
-    "title": "MadhanJ/german-english-translator",
-    "url": "https://huggingface.co/spaces/MadhanJ/german-english-translator",
-    "author": "MadhanJ",
-    "created_at": "2026-06-23T07:20:21Z",
-    "updated_at": "2026-06-23T07:20:30Z",
+    "id": "Dev2206/my-custom-chatbot1",
+    "title": "Dev2206/my-custom-chatbot1",
+    "url": "https://huggingface.co/spaces/Dev2206/my-custom-chatbot1",
+    "author": "Dev2206",
+    "created_at": "2026-06-23T08:02:24Z",
+    "updated_at": "2026-06-23T08:02:24Z",
     "metrics": {
       "likes": 0
     },
@@ -17,39 +17,291 @@
     ],
     "summary": "",
     "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.250843Z",
+    "fetched_at": "2026-06-23T08:02:23.832997Z",
+    "score": 1.0
+  },
+  {
+    "source": "huggingface",
+    "type": "space",
+    "id": "dfdfdsf44/edfedvvv",
+    "title": "dfdfdsf44/edfedvvv",
+    "url": "https://huggingface.co/spaces/dfdfdsf44/edfedvvv",
+    "author": "dfdfdsf44",
+    "created_at": "2026-06-23T08:02:17Z",
+    "updated_at": "2026-06-23T08:02:17Z",
+    "metrics": {
+      "likes": 0
+    },
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "summary": "",
+    "raw": {},
+    "fetched_at": "2026-06-23T08:02:23.833063Z",
+    "score": 0.9999
+  },
+  {
+    "source": "huggingface",
+    "type": "space",
+    "id": "sugash28/Upskill",
+    "title": "sugash28/Upskill",
+    "url": "https://huggingface.co/spaces/sugash28/Upskill",
+    "author": "sugash28",
+    "created_at": "2026-06-23T08:02:13Z",
+    "updated_at": "2026-06-23T08:02:14Z",
+    "metrics": {
+      "likes": 0
+    },
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "summary": "",
+    "raw": {},
+    "fetched_at": "2026-06-23T08:02:23.833105Z",
+    "score": 0.9999
+  },
+  {
+    "source": "huggingface",
+    "type": "space",
+    "id": "Jiya1234567/banking_chatbot_analytics_v2",
+    "title": "Jiya1234567/banking_chatbot_analytics_v2",
+    "url": "https://huggingface.co/spaces/Jiya1234567/banking_chatbot_analytics_v2",
+    "author": "Jiya1234567",
+    "created_at": "2026-06-23T08:02:12Z",
+    "updated_at": "2026-06-23T08:02:14Z",
+    "metrics": {
+      "likes": 0
+    },
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "summary": "",
+    "raw": {},
+    "fetched_at": "2026-06-23T08:02:23.833153Z",
+    "score": 0.9999
+  },
+  {
+    "source": "huggingface",
+    "type": "space",
+    "id": "sanan33/az-law-rag",
+    "title": "sanan33/az-law-rag",
+    "url": "https://huggingface.co/spaces/sanan33/az-law-rag",
+    "author": "sanan33",
+    "created_at": "2026-06-23T08:02:11Z",
+    "updated_at": "2026-06-23T08:02:14Z",
+    "metrics": {
+      "likes": 0
+    },
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "summary": "",
+    "raw": {},
+    "fetched_at": "2026-06-23T08:02:23.833194Z",
+    "score": 3.9999
+  },
+  {
+    "source": "huggingface",
+    "type": "space",
+    "id": "AbdulRehman098765/video_downloader",
+    "title": "AbdulRehman098765/video_downloader",
+    "url": "https://huggingface.co/spaces/AbdulRehman098765/video_downloader",
+    "author": "AbdulRehman098765",
+    "created_at": "2026-06-23T08:02:11Z",
+    "updated_at": "2026-06-23T08:02:14Z",
+    "metrics": {
+      "likes": 0
+    },
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "summary": "",
+    "raw": {},
+    "fetched_at": "2026-06-23T08:02:23.833230Z",
+    "score": 0.9999
+  },
+  {
+    "source": "huggingface",
+    "type": "space",
+    "id": "FabienDanieau/reachy-mini-status",
+    "title": "FabienDanieau/reachy-mini-status",
+    "url": "https://huggingface.co/spaces/FabienDanieau/reachy-mini-status",
+    "author": "FabienDanieau",
+    "created_at": "2026-06-23T08:02:08Z",
+    "updated_at": "2026-06-19T17:07:58Z",
+    "metrics": {
+      "likes": 0
+    },
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "summary": "",
+    "raw": {},
+    "fetched_at": "2026-06-23T08:02:23.833280Z",
+    "score": 0.9998
+  },
+  {
+    "source": "huggingface",
+    "type": "space",
+    "id": "kasarlasaivivek/novameet-backend-2",
+    "title": "kasarlasaivivek/novameet-backend-2",
+    "url": "https://huggingface.co/spaces/kasarlasaivivek/novameet-backend-2",
+    "author": "kasarlasaivivek",
+    "created_at": "2026-06-23T08:02:04Z",
+    "updated_at": "2026-06-23T07:38:37Z",
+    "metrics": {
+      "likes": 0
+    },
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "summary": "",
+    "raw": {},
+    "fetched_at": "2026-06-23T08:02:23.833330Z",
+    "score": 0.9998
+  },
+  {
+    "source": "huggingface",
+    "type": "space",
+    "id": "poojasaurus/product-browser-api",
+    "title": "poojasaurus/product-browser-api",
+    "url": "https://huggingface.co/spaces/poojasaurus/product-browser-api",
+    "author": "poojasaurus",
+    "created_at": "2026-06-23T08:01:59Z",
+    "updated_at": "2026-06-23T08:02:00Z",
+    "metrics": {
+      "likes": 0
+    },
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "summary": "",
+    "raw": {},
+    "fetched_at": "2026-06-23T08:02:23.833369Z",
+    "score": 0.9997
+  },
+  {
+    "source": "huggingface",
+    "type": "space",
+    "id": "VeraSerfhan/LirikLagu",
+    "title": "VeraSerfhan/LirikLagu",
+    "url": "https://huggingface.co/spaces/VeraSerfhan/LirikLagu",
+    "author": "VeraSerfhan",
+    "created_at": "2026-06-23T08:01:58Z",
+    "updated_at": "2026-06-23T08:01:59Z",
+    "metrics": {
+      "likes": 0
+    },
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "summary": "",
+    "raw": {},
+    "fetched_at": "2026-06-23T08:02:23.833412Z",
+    "score": 0.9997
+  },
+  {
+    "source": "huggingface",
+    "type": "space",
+    "id": "haylynndeepshika2008/string_matching_analysis",
+    "title": "haylynndeepshika2008/string_matching_analysis",
+    "url": "https://huggingface.co/spaces/haylynndeepshika2008/string_matching_analysis",
+    "author": "haylynndeepshika2008",
+    "created_at": "2026-06-23T08:01:58Z",
+    "updated_at": "2026-06-23T08:01:58Z",
+    "metrics": {
+      "likes": 0
+    },
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "summary": "",
+    "raw": {},
+    "fetched_at": "2026-06-23T08:02:23.833448Z",
+    "score": 0.9997
+  },
+  {
+    "source": "huggingface",
+    "type": "space",
+    "id": "ParaaAi/Ffc",
+    "title": "ParaaAi/Ffc",
+    "url": "https://huggingface.co/spaces/ParaaAi/Ffc",
+    "author": "ParaaAi",
+    "created_at": "2026-06-23T08:01:47Z",
+    "updated_at": "2026-06-23T08:01:47Z",
+    "metrics": {
+      "likes": 0
+    },
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "summary": "",
+    "raw": {},
+    "fetched_at": "2026-06-23T08:02:23.833480Z",
+    "score": 0.9996
+  },
+  {
+    "source": "huggingface",
+    "type": "space",
+    "id": "vipcafe1994/video-vietsub-auto",
+    "title": "vipcafe1994/video-vietsub-auto",
+    "url": "https://huggingface.co/spaces/vipcafe1994/video-vietsub-auto",
+    "author": "vipcafe1994",
+    "created_at": "2026-06-23T08:01:24Z",
+    "updated_at": "2026-06-23T08:01:24Z",
+    "metrics": {
+      "likes": 0
+    },
+    "tags": [
+      "docker",
+      "region:us"
+    ],
+    "summary": "",
+    "raw": {},
+    "fetched_at": "2026-06-23T08:02:23.833512Z",
+    "score": 0.9993
+  },
+  {
+    "source": "huggingface",
+    "type": "space",
+    "id": "tik-tik061/Lirik",
+    "title": "tik-tik061/Lirik",
+    "url": "https://huggingface.co/spaces/tik-tik061/Lirik",
+    "author": "tik-tik061",
+    "created_at": "2026-06-23T08:01:12Z",
+    "updated_at": "2026-06-23T08:01:12Z",
+    "metrics": {
+      "likes": 0
+    },
+    "tags": [
+      "gradio",
+      "region:us"
+    ],
+    "summary": "",
+    "raw": {},
+    "fetched_at": "2026-06-23T08:02:23.833543Z",
     "score": 0.9992
   },
   {
     "source": "huggingface",
     "type": "space",
-    "id": "afiquee/apple-classifier-api",
-    "title": "afiquee/apple-classifier-api",
-    "url": "https://huggingface.co/spaces/afiquee/apple-classifier-api",
-    "author": "afiquee",
-    "created_at": "2026-06-23T07:20:07Z",
-    "updated_at": "2026-06-23T07:20:09Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "docker",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.250916Z",
-    "score": 0.999
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "rahmamanek11/Autoclipperrahmanaulia",
-    "title": "rahmamanek11/Autoclipperrahmanaulia",
-    "url": "https://huggingface.co/spaces/rahmamanek11/Autoclipperrahmanaulia",
-    "author": "rahmamanek11",
-    "created_at": "2026-06-23T07:19:36Z",
-    "updated_at": "2026-06-23T07:19:36Z",
+    "id": "rashi2323/final_freshness_bit_ekdamfinal",
+    "title": "rashi2323/final_freshness_bit_ekdamfinal",
+    "url": "https://huggingface.co/spaces/rashi2323/final_freshness_bit_ekdamfinal",
+    "author": "rashi2323",
+    "created_at": "2026-06-23T08:01:11Z",
+    "updated_at": "2026-06-23T08:01:11Z",
     "metrics": {
       "likes": 0
     },
@@ -59,60 +311,18 @@
     ],
     "summary": "",
     "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.250953Z",
-    "score": 0.9987
+    "fetched_at": "2026-06-23T08:02:23.833586Z",
+    "score": 0.9992
   },
   {
     "source": "huggingface",
     "type": "space",
-    "id": "adina-agent/image-processing-agent",
-    "title": "adina-agent/image-processing-agent",
-    "url": "https://huggingface.co/spaces/adina-agent/image-processing-agent",
-    "author": "adina-agent",
-    "created_at": "2026-06-23T07:19:31Z",
-    "updated_at": "2026-06-23T07:19:31Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "docker",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.250991Z",
-    "score": 3.9986
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "Tcpiptc/tomato-ai",
-    "title": "Tcpiptc/tomato-ai",
-    "url": "https://huggingface.co/spaces/Tcpiptc/tomato-ai",
-    "author": "Tcpiptc",
-    "created_at": "2026-06-23T07:19:29Z",
-    "updated_at": "2026-06-23T07:19:29Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "docker",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251022Z",
-    "score": 0.9986
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "wangyiyi666/model-optimizer",
-    "title": "wangyiyi666/model-optimizer",
-    "url": "https://huggingface.co/spaces/wangyiyi666/model-optimizer",
-    "author": "wangyiyi666",
-    "created_at": "2026-06-23T07:19:09Z",
-    "updated_at": "2026-06-23T07:19:09Z",
+    "id": "sagnikdas-ml/EpistemologyChatDefault",
+    "title": "sagnikdas-ml/EpistemologyChatDefault",
+    "url": "https://huggingface.co/spaces/sagnikdas-ml/EpistemologyChatDefault",
+    "author": "sagnikdas-ml",
+    "created_at": "2026-06-23T08:01:07Z",
+    "updated_at": "2026-06-23T08:01:07Z",
     "metrics": {
       "likes": 0
     },
@@ -122,494 +332,7 @@
     ],
     "summary": "",
     "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251051Z",
-    "score": 0.9984
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "faydubs/sada_api",
-    "title": "faydubs/sada_api",
-    "url": "https://huggingface.co/spaces/faydubs/sada_api",
-    "author": "faydubs",
-    "created_at": "2026-06-23T07:18:53Z",
-    "updated_at": "2026-06-23T07:18:53Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "gradio",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251081Z",
-    "score": 0.9982
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "lhmchyd/nvidia",
-    "title": "lhmchyd/nvidia",
-    "url": "https://huggingface.co/spaces/lhmchyd/nvidia",
-    "author": "lhmchyd",
-    "created_at": "2026-06-23T07:18:32Z",
-    "updated_at": "2026-06-23T07:19:29Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "gradio",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251117Z",
-    "score": 0.998
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "itx88723/media-processor-service",
-    "title": "itx88723/media-processor-service",
-    "url": "https://huggingface.co/spaces/itx88723/media-processor-service",
-    "author": "itx88723",
-    "created_at": "2026-06-23T07:18:00Z",
-    "updated_at": "2026-06-22T17:17:44Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "docker",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251152Z",
-    "score": 0.9976
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "ogulercan/First_agent_template",
-    "title": "ogulercan/First_agent_template",
-    "url": "https://huggingface.co/spaces/ogulercan/First_agent_template",
-    "author": "ogulercan",
-    "created_at": "2026-06-23T07:17:44Z",
-    "updated_at": "2025-05-06T08:19:21Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "gradio",
-      "smolagents",
-      "agent",
-      "smolagent",
-      "tool",
-      "agent-course",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251186Z",
-    "score": 3.9974
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "ecomhassan123/pic_generator",
-    "title": "ecomhassan123/pic_generator",
-    "url": "https://huggingface.co/spaces/ecomhassan123/pic_generator",
-    "author": "ecomhassan123",
-    "created_at": "2026-06-23T07:17:29Z",
-    "updated_at": "2026-06-23T07:17:29Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "gradio",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251215Z",
-    "score": 0.9972
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "sundareshan/pdf2doc",
-    "title": "sundareshan/pdf2doc",
-    "url": "https://huggingface.co/spaces/sundareshan/pdf2doc",
-    "author": "sundareshan",
-    "created_at": "2026-06-23T07:16:52Z",
-    "updated_at": "2026-06-23T07:16:52Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "docker",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251294Z",
-    "score": 0.9968
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "mayanktak15/yolo",
-    "title": "mayanktak15/yolo",
-    "url": "https://huggingface.co/spaces/mayanktak15/yolo",
-    "author": "mayanktak15",
-    "created_at": "2026-06-23T07:16:42Z",
-    "updated_at": "2026-06-23T07:16:42Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "gradio",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251353Z",
-    "score": 0.9967
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "AnnLior/Html_text",
-    "title": "AnnLior/Html_text",
-    "url": "https://huggingface.co/spaces/AnnLior/Html_text",
-    "author": "AnnLior",
-    "created_at": "2026-06-23T07:16:25Z",
-    "updated_at": "2026-06-23T07:20:02Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "static",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251393Z",
-    "score": 0.9965
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "alelice88/3",
-    "title": "alelice88/3",
-    "url": "https://huggingface.co/spaces/alelice88/3",
-    "author": "alelice88",
-    "created_at": "2026-06-23T07:16:23Z",
-    "updated_at": "2026-06-23T07:16:26Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "docker",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251424Z",
-    "score": 0.9965
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "mjawadansari/fusion",
-    "title": "mjawadansari/fusion",
-    "url": "https://huggingface.co/spaces/mjawadansari/fusion",
-    "author": "mjawadansari",
-    "created_at": "2026-06-23T07:16:11Z",
-    "updated_at": "2026-06-23T07:16:13Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "docker",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251453Z",
-    "score": 0.9963
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "rupesh-pandey/Comp-SC",
-    "title": "rupesh-pandey/Comp-SC",
-    "url": "https://huggingface.co/spaces/rupesh-pandey/Comp-SC",
-    "author": "rupesh-pandey",
-    "created_at": "2026-06-23T07:14:14Z",
-    "updated_at": "2026-06-23T07:21:27Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "gradio",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251493Z",
-    "score": 0.995
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "hduddd/page-1",
-    "title": "hduddd/page-1",
-    "url": "https://huggingface.co/spaces/hduddd/page-1",
-    "author": "hduddd",
-    "created_at": "2026-06-23T07:13:50Z",
-    "updated_at": "2026-06-23T07:13:50Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "gradio",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251521Z",
-    "score": 0.9947
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "Arko006/trustworthy-gnn-fraud-api",
-    "title": "Arko006/trustworthy-gnn-fraud-api",
-    "url": "https://huggingface.co/spaces/Arko006/trustworthy-gnn-fraud-api",
-    "author": "Arko006",
-    "created_at": "2026-06-23T07:13:38Z",
-    "updated_at": "2026-06-23T07:13:38Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "docker",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251550Z",
-    "score": 0.9945
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "Ro14n123/fruit-ripeness-detector",
-    "title": "Ro14n123/fruit-ripeness-detector",
-    "url": "https://huggingface.co/spaces/Ro14n123/fruit-ripeness-detector",
-    "author": "Ro14n123",
-    "created_at": "2026-06-23T07:13:12Z",
-    "updated_at": "2026-06-23T07:20:02Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251584Z",
-    "score": 0.9942
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "Saroni-Melodius/music-0",
-    "title": "Saroni-Melodius/music-0",
-    "url": "https://huggingface.co/spaces/Saroni-Melodius/music-0",
-    "author": "Saroni-Melodius",
-    "created_at": "2026-06-23T07:13:09Z",
-    "updated_at": "2026-06-23T07:20:56Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "gradio",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251614Z",
-    "score": 0.9942
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "fatemehkh2090/my-sadtalker",
-    "title": "fatemehkh2090/my-sadtalker",
-    "url": "https://huggingface.co/spaces/fatemehkh2090/my-sadtalker",
-    "author": "fatemehkh2090",
-    "created_at": "2026-06-23T07:13:06Z",
-    "updated_at": "2023-07-19T18:24:48Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "gradio",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251823Z",
-    "score": 0.9942
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "dimas22/uas",
-    "title": "dimas22/uas",
-    "url": "https://huggingface.co/spaces/dimas22/uas",
-    "author": "dimas22",
-    "created_at": "2026-06-23T07:11:34Z",
-    "updated_at": "2026-06-23T07:17:00Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "gradio",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251947Z",
-    "score": 0.9931
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "ForsonX/military-survival-behind-enemy-lines-o7zue",
-    "title": "ForsonX/military-survival-behind-enemy-lines-o7zue",
-    "url": "https://huggingface.co/spaces/ForsonX/military-survival-behind-enemy-lines-o7zue",
-    "author": "ForsonX",
-    "created_at": "2026-06-23T07:11:18Z",
-    "updated_at": "2026-06-23T07:11:20Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "static",
-      "deepsite-v4",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.251992Z",
-    "score": 0.9929
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "momo1001/wenjian",
-    "title": "momo1001/wenjian",
-    "url": "https://huggingface.co/spaces/momo1001/wenjian",
-    "author": "momo1001",
-    "created_at": "2026-06-23T07:11:15Z",
-    "updated_at": "2026-06-23T07:11:15Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "gradio",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.252025Z",
-    "score": 0.9929
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "kerogergs/church-attendance-api",
-    "title": "kerogergs/church-attendance-api",
-    "url": "https://huggingface.co/spaces/kerogergs/church-attendance-api",
-    "author": "kerogergs",
-    "created_at": "2026-06-23T07:11:10Z",
-    "updated_at": "2026-06-23T07:20:19Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "docker",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.252057Z",
-    "score": 0.9928
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "Adityasg/skywatch",
-    "title": "Adityasg/skywatch",
-    "url": "https://huggingface.co/spaces/Adityasg/skywatch",
-    "author": "Adityasg",
-    "created_at": "2026-06-23T07:09:31Z",
-    "updated_at": "2026-06-23T07:09:31Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "docker",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.252180Z",
-    "score": 0.9917
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "nickong4134/moa-fusion",
-    "title": "nickong4134/moa-fusion",
-    "url": "https://huggingface.co/spaces/nickong4134/moa-fusion",
-    "author": "nickong4134",
-    "created_at": "2026-06-23T07:09:09Z",
-    "updated_at": "2026-06-23T07:09:16Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "gradio",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.252227Z",
-    "score": 0.9914
-  },
-  {
-    "source": "huggingface",
-    "type": "space",
-    "id": "tyy001/Codex_Agnes",
-    "title": "tyy001/Codex_Agnes",
-    "url": "https://huggingface.co/spaces/tyy001/Codex_Agnes",
-    "author": "tyy001",
-    "created_at": "2026-06-23T07:09:06Z",
-    "updated_at": "2026-06-23T07:21:31Z",
-    "metrics": {
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:31.252284Z",
-    "score": 0.9914
+    "fetched_at": "2026-06-23T08:02:23.833618Z",
+    "score": 0.9991
   }
 ]

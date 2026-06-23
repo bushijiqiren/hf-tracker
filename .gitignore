@@ -10,6 +10,10 @@ dist/
 config.yaml
 .env
 
+# 人机对话记录（个人内容，默认仅本地，供本地 AI 检索）
+# 若想随仓库归档/让云端 AI 也能检索，删掉下面这行
+conversations/
+
 # 运行时状态（去重水位线等，M2）——不进 Git
 data/_state/
 *.sqlite

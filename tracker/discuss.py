@@ -10,8 +10,15 @@ from __future__ import annotations
 import json
 from pathlib import Path
 
+from .conversations import Conversation
 from .llm import LLMClient
 from .models import Item
+
+_SUMMARIZE = (
+    "用一行（≤20字）给这段对话起个便于检索的中文标题，再用一句话概括讨论内容，"
+    "最后给 2-4 个中文关键词标签。严格按 JSON 返回："
+    '{"title": "...", "summary": "...", "tags": ["...", "..."]}'
+)
 
 _SYSTEM = (
     "你是用户的 AI 助手，正在和用户讨论今天 HuggingFace 上新增的模型/数据集/Space。"
@@ -43,14 +50,24 @@ def _context(config: dict, source: str, limit: int) -> str:
     )
 
 
+def _digest_meta(config: dict, source: str) -> dict:
+    path = Path(config.get("data_dir", "data")) / source / "latest_digest.json"
+    if not path.exists():
+        return {}
+    d = json.loads(path.read_text(encoding="utf-8"))
+    return {"digest_date": d.get("date"), "digest_count": d.get("count")}
+
+
 def run_discuss(config: dict, source: str = "huggingface") -> None:
     discuss_cfg = config.get("discuss") or {}
     limit = int(discuss_cfg.get("context_items", 40))
+    conv_dir = config.get("conversations_dir", "conversations")
 
     llm = LLMClient(config.get("llm"))
     messages = [{"role": "system", "content": _SYSTEM + _context(config, source, limit)}]
+    conv = Conversation(conv_dir, source, meta=_digest_meta(config, source))
 
-    print("💬 与 AI 讨论今日更新（输入 exit / quit / :q 结束）")
+    print("💬 与 AI 讨论今日更新（输入 exit / quit / :q 结束，对话会自动结构化保存）")
     print(f"   已载入 {source} 当日 digest 作为上下文。可以先问：'今天有什么值得关注的？'\n")
 
     while True:
@@ -65,10 +82,33 @@ def run_discuss(config: dict, source: str = "huggingface") -> None:
             break
 
         messages.append({"role": "user", "content": user_input})
+        conv.add("user", user_input)
         print("AI> ", end="", flush=True)
         reply_parts: list[str] = []
         for delta in llm.stream(messages):
             print(delta, end="", flush=True)
             reply_parts.append(delta)
         print("\n")
-        messages.append({"role": "assistant", "content": "".join(reply_parts)})
+        reply = "".join(reply_parts)
+        messages.append({"role": "assistant", "content": reply})
+        conv.add("assistant", reply)
+
+    _finalize(conv, llm, messages)
+
+
+def _finalize(conv: Conversation, llm: LLMClient, messages: list[dict]) -> None:
+    if not conv.turns:
+        print("（空会话，未保存）")
+        return
+    title = summary = ""
+    tags: list[str] = []
+    try:  # 让 AI 生成检索用的标题/摘要/标签，失败则降级
+        raw = llm.chat(messages + [{"role": "user", "content": _SUMMARIZE}], temperature=0.3)
+        meta = json.loads(raw[raw.find("{") : raw.rfind("}") + 1])
+        title, summary, tags = meta.get("title", ""), meta.get("summary", ""), meta.get("tags", [])
+    except Exception:
+        pass
+    conv.finalize(title=title, summary=summary, tags=tags)
+    print(f"💾 已保存：{conv.path}")
+    if title:
+        print(f"   标题：{title}")

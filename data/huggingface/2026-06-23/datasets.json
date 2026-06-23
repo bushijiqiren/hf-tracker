@@ -2,431 +2,60 @@
   {
     "source": "huggingface",
     "type": "dataset",
-    "id": "procedure2012/Annoy-PyEdu-Rs",
-    "title": "procedure2012/Annoy-PyEdu-Rs",
-    "url": "https://huggingface.co/datasets/procedure2012/Annoy-PyEdu-Rs",
-    "author": "procedure2012",
-    "created_at": "2026-06-23T07:20:05Z",
-    "updated_at": "2026-06-23T07:20:07Z",
+    "id": "medlinx/RuClinNER",
+    "title": "medlinx/RuClinNER",
+    "url": "https://huggingface.co/datasets/medlinx/RuClinNER",
+    "author": "medlinx",
+    "created_at": "2026-06-23T08:01:39Z",
+    "updated_at": "2026-06-23T08:01:48Z",
     "metrics": {
       "downloads": 0,
       "likes": 0
     },
     "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766047Z",
-    "score": 0.999
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "procedure2012/Annoy-PyEdu-Rs-Raw",
-    "title": "procedure2012/Annoy-PyEdu-Rs-Raw",
-    "url": "https://huggingface.co/datasets/procedure2012/Annoy-PyEdu-Rs-Raw",
-    "author": "procedure2012",
-    "created_at": "2026-06-23T07:20:05Z",
-    "updated_at": "2026-06-23T07:20:08Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766103Z",
-    "score": 0.999
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "lihongwei1018/openarm-quest3-3rgb-joint-v16-pick-pickage",
-    "title": "lihongwei1018/openarm-quest3-3rgb-joint-v16-pick-pickage",
-    "url": "https://huggingface.co/datasets/lihongwei1018/openarm-quest3-3rgb-joint-v16-pick-pickage",
-    "author": "lihongwei1018",
-    "created_at": "2026-06-23T07:19:48Z",
-    "updated_at": "2026-06-23T07:19:48Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766137Z",
-    "score": 0.9988
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "GSMS-B/India-Legal-QA-BNS-BNSS-BSA",
-    "title": "GSMS-B/India-Legal-QA-BNS-BNSS-BSA",
-    "url": "https://huggingface.co/datasets/GSMS-B/India-Legal-QA-BNS-BNSS-BSA",
-    "author": "GSMS-B",
-    "created_at": "2026-06-23T07:19:45Z",
-    "updated_at": "2026-06-23T07:20:13Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "license:apache-2.0",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766197Z",
-    "score": 0.9988
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "asasdsss/Annoy-PyEdu-Rs-Raw",
-    "title": "asasdsss/Annoy-PyEdu-Rs-Raw",
-    "url": "https://huggingface.co/datasets/asasdsss/Annoy-PyEdu-Rs-Raw",
-    "author": "asasdsss",
-    "created_at": "2026-06-23T07:19:41Z",
-    "updated_at": "2026-06-23T07:19:43Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766229Z",
-    "score": 0.9987
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "asasdsss/Annoy-PyEdu-Rs",
-    "title": "asasdsss/Annoy-PyEdu-Rs",
-    "url": "https://huggingface.co/datasets/asasdsss/Annoy-PyEdu-Rs",
-    "author": "asasdsss",
-    "created_at": "2026-06-23T07:19:40Z",
-    "updated_at": "2026-06-23T07:19:42Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766258Z",
-    "score": 0.9987
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "wangyiyi666/model-optimizer-queue",
-    "title": "wangyiyi666/model-optimizer-queue",
-    "url": "https://huggingface.co/datasets/wangyiyi666/model-optimizer-queue",
-    "author": "wangyiyi666",
-    "created_at": "2026-06-23T07:19:08Z",
-    "updated_at": "2026-06-23T07:19:25Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766287Z",
-    "score": 0.9984
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "KyraLeeChunWei/Pick_up_Clarityn-D_v3",
-    "title": "KyraLeeChunWei/Pick_up_Clarityn-D_v3",
-    "url": "https://huggingface.co/datasets/KyraLeeChunWei/Pick_up_Clarityn-D_v3",
-    "author": "KyraLeeChunWei",
-    "created_at": "2026-06-23T07:17:34Z",
-    "updated_at": "2026-06-23T07:17:34Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766321Z",
-    "score": 0.9973
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "PumeTu/mieb-train",
-    "title": "PumeTu/mieb-train",
-    "url": "https://huggingface.co/datasets/PumeTu/mieb-train",
-    "author": "PumeTu",
-    "created_at": "2026-06-23T07:16:41Z",
-    "updated_at": "2026-06-23T07:16:42Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766350Z",
-    "score": 0.9967
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "Srijan-Upadhyay/formula-ocr-synth-bench",
-    "title": "Srijan-Upadhyay/formula-ocr-synth-bench",
-    "url": "https://huggingface.co/datasets/Srijan-Upadhyay/formula-ocr-synth-bench",
-    "author": "Srijan-Upadhyay",
-    "created_at": "2026-06-23T07:15:59Z",
-    "updated_at": "2026-06-23T07:16:10Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766385Z",
-    "score": 0.9962
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "milord-x/KazNU-OCR-Layout-dataset",
-    "title": "milord-x/KazNU-OCR-Layout-dataset",
-    "url": "https://huggingface.co/datasets/milord-x/KazNU-OCR-Layout-dataset",
-    "author": "milord-x",
-    "created_at": "2026-06-23T07:15:28Z",
-    "updated_at": "2026-06-23T07:15:29Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "license:mit",
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766417Z",
-    "score": 0.9958
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "CassioLuisBatista/ereno-ids",
-    "title": "CassioLuisBatista/ereno-ids",
-    "url": "https://huggingface.co/datasets/CassioLuisBatista/ereno-ids",
-    "author": "CassioLuisBatista",
-    "created_at": "2026-06-23T07:15:05Z",
-    "updated_at": "2026-06-23T07:15:17Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766446Z",
-    "score": 0.9956
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "cheolhyunkim/omx_f_PAP",
-    "title": "cheolhyunkim/omx_f_PAP",
-    "url": "https://huggingface.co/datasets/cheolhyunkim/omx_f_PAP",
-    "author": "cheolhyunkim",
-    "created_at": "2026-06-23T07:14:49Z",
-    "updated_at": "2026-06-23T07:18:07Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766475Z",
-    "score": 0.9954
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "Lotussheep/mw_ppw_30",
-    "title": "Lotussheep/mw_ppw_30",
-    "url": "https://huggingface.co/datasets/Lotussheep/mw_ppw_30",
-    "author": "Lotussheep",
-    "created_at": "2026-06-23T07:14:31Z",
-    "updated_at": "2026-06-23T07:14:31Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766503Z",
-    "score": 0.9952
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "DCAgent2/eval-DCAgent_a1-code_contests_DCAgent_dev_set_v2",
-    "title": "DCAgent2/eval-DCAgent_a1-code_contests_DCAgent_dev_set_v2",
-    "url": "https://huggingface.co/datasets/DCAgent2/eval-DCAgent_a1-code_contests_DCAgent_dev_set_v2",
-    "author": "DCAgent2",
-    "created_at": "2026-06-23T07:12:35Z",
-    "updated_at": "2026-06-23T07:13:06Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766536Z",
-    "score": 3.9938
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "JYeonKim/so101-debug",
-    "title": "JYeonKim/so101-debug",
-    "url": "https://huggingface.co/datasets/JYeonKim/so101-debug",
-    "author": "JYeonKim",
-    "created_at": "2026-06-23T07:12:10Z",
-    "updated_at": "2026-06-23T07:13:08Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766566Z",
-    "score": 0.9935
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "VedhamshBode/umi_box_packing",
-    "title": "VedhamshBode/umi_box_packing",
-    "url": "https://huggingface.co/datasets/VedhamshBode/umi_box_packing",
-    "author": "VedhamshBode",
-    "created_at": "2026-06-23T07:11:28Z",
-    "updated_at": "2026-06-23T07:16:12Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766593Z",
-    "score": 0.993
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "MikeGreen2710/tho_cu_26_06_18_std",
-    "title": "MikeGreen2710/tho_cu_26_06_18_std",
-    "url": "https://huggingface.co/datasets/MikeGreen2710/tho_cu_26_06_18_std",
-    "author": "MikeGreen2710",
-    "created_at": "2026-06-23T07:11:26Z",
-    "updated_at": "2026-06-23T07:12:28Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766625Z",
-    "score": 0.993
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "MikeGreen2710/tho_cu_26_06_16_std",
-    "title": "MikeGreen2710/tho_cu_26_06_16_std",
-    "url": "https://huggingface.co/datasets/MikeGreen2710/tho_cu_26_06_16_std",
-    "author": "MikeGreen2710",
-    "created_at": "2026-06-23T07:11:08Z",
-    "updated_at": "2026-06-23T07:11:08Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "region:us"
-    ],
-    "summary": "",
-    "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766654Z",
-    "score": 0.9928
-  },
-  {
-    "source": "huggingface",
-    "type": "dataset",
-    "id": "chilomax/SWE-smith-trajectories",
-    "title": "chilomax/SWE-smith-trajectories",
-    "url": "https://huggingface.co/datasets/chilomax/SWE-smith-trajectories",
-    "author": "chilomax",
-    "created_at": "2026-06-23T07:10:23Z",
-    "updated_at": "2026-06-23T07:10:23Z",
-    "metrics": {
-      "downloads": 0,
-      "likes": 0
-    },
-    "tags": [
-      "task_categories:text-generation",
-      "language:en",
-      "license:mit",
+      "task_categories:token-classification",
+      "task_ids:named-entity-recognition",
+      "annotations_creators:expert-generated",
+      "multilinguality:monolingual",
+      "source_datasets:original",
+      "language:ru",
+      "license:cc-by-nc-sa-4.0",
       "size_categories:1K<n<10K",
-      "arxiv:2504.21798",
       "region:us",
-      "code",
-      "agents",
-      "software-engineering"
+      "clinical",
+      "medical",
+      "biomedical",
+      "named-entity-recognition",
+      "nested-ner",
+      "relation-extraction",
+      "entity-linking",
+      "icd-10",
+      "russian"
     ],
     "summary": "",
     "raw": {},
-    "fetched_at": "2026-06-23T07:21:30.766689Z",
-    "score": 3.9923
+    "fetched_at": "2026-06-23T08:02:23.437688Z",
+    "score": 0.9995
+  },
+  {
+    "source": "huggingface",
+    "type": "dataset",
+    "id": "rainbowrobotics/hand_20260623_155042",
+    "title": "rainbowrobotics/hand_20260623_155042",
+    "url": "https://huggingface.co/datasets/rainbowrobotics/hand_20260623_155042",
+    "author": "rainbowrobotics",
+    "created_at": "2026-06-23T08:01:24Z",
+    "updated_at": "2026-06-23T08:01:24Z",
+    "metrics": {
+      "downloads": 0,
+      "likes": 0
+    },
+    "tags": [
+      "region:us"
+    ],
+    "summary": "",
+    "raw": {},
+    "fetched_at": "2026-06-23T08:02:23.437768Z",
+    "score": 0.9993
   }
 ]

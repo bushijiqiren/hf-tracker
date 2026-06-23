@@ -1,22 +1,22 @@
 {
   "source": "huggingface",
   "date": "2026-06-23",
-  "generated_at": "2026-06-23T07:21:31.260047+00:00",
+  "generated_at": "2026-06-23T08:02:23.837217+00:00",
   "counts": {
-    "dataset": 20,
-    "model": 72,
-    "space": 29
+    "dataset": 2,
+    "model": 9,
+    "space": 16
   },
   "items": [
     {
       "source": "huggingface",
       "type": "model",
-      "id": "SoheylM/engiopt-flow-matching-topk-smoke-cgan-cnn-2d",
-      "title": "SoheylM/engiopt-flow-matching-topk-smoke-cgan-cnn-2d",
-      "url": "https://huggingface.co/SoheylM/engiopt-flow-matching-topk-smoke-cgan-cnn-2d",
-      "author": "SoheylM",
-      "created_at": "2026-06-23T07:21:27Z",
-      "updated_at": "2026-06-23T07:21:29Z",
+      "id": "Muapi/icon-in-vector-3d-style",
+      "title": "Muapi/icon-in-vector-3d-style",
+      "url": "https://huggingface.co/Muapi/icon-in-vector-3d-style",
+      "author": "Muapi",
+      "created_at": "2026-06-23T08:02:21Z",
+      "updated_at": "2026-06-23T08:02:21Z",
       "metrics": {
         "downloads": 0,
         "likes": 0
@@ -26,18 +26,18 @@
       ],
       "summary": "",
       "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.083509Z",
+      "fetched_at": "2026-06-23T08:02:23.014027Z",
       "score": 1.0
     },
     {
       "source": "huggingface",
       "type": "model",
-      "id": "Jeesup/MUSE-News_Llama-2-7b_RSQAU_qat_base_strong",
-      "title": "Jeesup/MUSE-News_Llama-2-7b_RSQAU_qat_base_strong",
-      "url": "https://huggingface.co/Jeesup/MUSE-News_Llama-2-7b_RSQAU_qat_base_strong",
-      "author": "Jeesup",
-      "created_at": "2026-06-23T07:21:23Z",
-      "updated_at": "2026-06-23T07:21:23Z",
+      "id": "Thunderbolts123/UltraThinker-FINAL-STABLE",
+      "title": "Thunderbolts123/UltraThinker-FINAL-STABLE",
+      "url": "https://huggingface.co/Thunderbolts123/UltraThinker-FINAL-STABLE",
+      "author": "Thunderbolts123",
+      "created_at": "2026-06-23T08:02:19Z",
+      "updated_at": "2026-06-23T08:02:19Z",
       "metrics": {
         "downloads": 0,
         "likes": 0
@@ -47,18 +47,18 @@
       ],
       "summary": "",
       "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.083575Z",
-      "score": 3.9999
+      "fetched_at": "2026-06-23T08:02:23.014092Z",
+      "score": 1.0
     },
     {
       "source": "huggingface",
       "type": "model",
-      "id": "simonycl/qwen3-30b-plateau-2skill-0617-iter255",
-      "title": "simonycl/qwen3-30b-plateau-2skill-0617-iter255",
-      "url": "https://huggingface.co/simonycl/qwen3-30b-plateau-2skill-0617-iter255",
-      "author": "simonycl",
-      "created_at": "2026-06-23T07:21:22Z",
-      "updated_at": "2026-06-23T07:21:22Z",
+      "id": "Muapi/fractal-vines",
+      "title": "Muapi/fractal-vines",
+      "url": "https://huggingface.co/Muapi/fractal-vines",
+      "author": "Muapi",
+      "created_at": "2026-06-23T08:02:14Z",
+      "updated_at": "2026-06-23T08:02:14Z",
       "metrics": {
         "downloads": 0,
         "likes": 0
@@ -68,72 +68,78 @@
       ],
       "summary": "",
       "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.083612Z",
-      "score": 3.9999
+      "fetched_at": "2026-06-23T08:02:23.014139Z",
+      "score": 0.9999
     },
     {
       "source": "huggingface",
       "type": "model",
-      "id": "lakshyaixi/Llama_3_2_3B_DPO_v19_230626",
-      "title": "lakshyaixi/Llama_3_2_3B_DPO_v19_230626",
-      "url": "https://huggingface.co/lakshyaixi/Llama_3_2_3B_DPO_v19_230626",
-      "author": "lakshyaixi",
-      "created_at": "2026-06-23T07:21:03Z",
-      "updated_at": "2026-06-23T07:21:13Z",
+      "id": "Gemita284/yolov8-brand-detection",
+      "title": "Gemita284/yolov8-brand-detection",
+      "url": "https://huggingface.co/Gemita284/yolov8-brand-detection",
+      "author": "Gemita284",
+      "created_at": "2026-06-23T08:01:57Z",
+      "updated_at": "2026-06-23T08:01:58Z",
       "metrics": {
         "downloads": 0,
         "likes": 0
       },
       "tags": [
-        "transformers",
-        "safetensors",
-        "llama",
-        "text-generation",
-        "text-generation-inference",
-        "unsloth",
-        "conversational",
+        "license:mit",
+        "region:us"
+      ],
+      "summary": "",
+      "raw": {},
+      "fetched_at": "2026-06-23T08:02:23.014184Z",
+      "score": 0.9997
+    },
+    {
+      "source": "huggingface",
+      "type": "model",
+      "id": "batiai/batisee",
+      "title": "batiai/batisee",
+      "url": "https://huggingface.co/batiai/batisee",
+      "author": "batiai",
+      "created_at": "2026-06-23T08:01:33Z",
+      "updated_at": "2026-06-23T08:01:34Z",
+      "metrics": {
+        "downloads": 0,
+        "likes": 0
+      },
+      "tags": [
+        "llama.cpp",
+        "gguf",
+        "ocr",
+        "document-understanding",
+        "korean",
+        "multimodal",
+        "vision",
+        "deepseek-ocr",
+        "batiai",
+        "quantized",
+        "image-text-to-text",
+        "ko",
         "en",
-        "base_model:lakshyaixi/Llama_3_2_3B_DPO_v18_220626",
-        "base_model:finetune:lakshyaixi/Llama_3_2_3B_DPO_v18_220626",
-        "license:apache-2.0",
-        "endpoints_compatible",
+        "zh",
+        "base_model:baidu/Unlimited-OCR",
+        "base_model:finetune:baidu/Unlimited-OCR",
+        "license:mit",
         "region:us"
       ],
-      "summary": "text-generation",
+      "summary": "image-text-to-text",
       "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.083658Z",
-      "score": 3.9997
+      "fetched_at": "2026-06-23T08:02:23.014234Z",
+      "score": 6.9994
     },
     {
       "source": "huggingface",
       "type": "model",
-      "id": "Muapi/red-river-style-characters",
-      "title": "Muapi/red-river-style-characters",
-      "url": "https://huggingface.co/Muapi/red-river-style-characters",
+      "id": "Muapi/china-style-buddha-statue-lora",
+      "title": "Muapi/china-style-buddha-statue-lora",
+      "url": "https://huggingface.co/Muapi/china-style-buddha-statue-lora",
       "author": "Muapi",
-      "created_at": "2026-06-23T07:20:58Z",
-      "updated_at": "2026-06-23T07:20:58Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.083693Z",
-      "score": 0.9996
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/mecha-anime-style",
-      "title": "Muapi/mecha-anime-style",
-      "url": "https://huggingface.co/Muapi/mecha-anime-style",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:20:54Z",
-      "updated_at": "2026-06-23T07:21:04Z",
+      "created_at": "2026-06-23T08:01:05Z",
+      "updated_at": "2026-06-23T08:01:24Z",
       "metrics": {
         "downloads": 0,
         "likes": 0
@@ -142,398 +148,49 @@
         "diffusers",
         "lora",
         "text-to-image",
-        "flux",
-        "flux.1-d",
-        "base_model:black-forest-labs/FLUX.1-dev",
-        "base_model:adapter:black-forest-labs/FLUX.1-dev",
+        "stable-diffusion-xl",
+        "sdxl",
+        "sdxl-1.0",
+        "base_model:stabilityai/stable-diffusion-xl-base-1.0",
+        "base_model:adapter:stabilityai/stable-diffusion-xl-base-1.0",
         "license:openrail++",
         "region:us"
       ],
       "summary": "text-to-image",
       "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.083724Z",
-      "score": 0.9996
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Jeesup/MUSE-News_Llama-2-7b_RSQAU_qat_base_weak",
-      "title": "Jeesup/MUSE-News_Llama-2-7b_RSQAU_qat_base_weak",
-      "url": "https://huggingface.co/Jeesup/MUSE-News_Llama-2-7b_RSQAU_qat_base_weak",
-      "author": "Jeesup",
-      "created_at": "2026-06-23T07:20:54Z",
-      "updated_at": "2026-06-23T07:21:20Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "safetensors",
-        "llama",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.083758Z",
-      "score": 3.9996
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "liufeftwer145/MyAwesomeModel-TestRepo",
-      "title": "liufeftwer145/MyAwesomeModel-TestRepo",
-      "url": "https://huggingface.co/liufeftwer145/MyAwesomeModel-TestRepo",
-      "author": "liufeftwer145",
-      "created_at": "2026-06-23T07:20:51Z",
-      "updated_at": "2026-06-23T07:20:59Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "transformers",
-        "pytorch",
-        "bert",
-        "feature-extraction",
-        "license:mit",
-        "endpoints_compatible",
-        "region:us"
-      ],
-      "summary": "feature-extraction",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.083801Z",
-      "score": 0.9996
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "pdfmarkdownapp/ppu-paddle-ocr-models",
-      "title": "pdfmarkdownapp/ppu-paddle-ocr-models",
-      "url": "https://huggingface.co/pdfmarkdownapp/ppu-paddle-ocr-models",
-      "author": "pdfmarkdownapp",
-      "created_at": "2026-06-23T07:20:24Z",
-      "updated_at": "2026-06-23T07:21:16Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "onnx",
-        "ocr",
-        "paddleocr",
-        "pp-ocrv5",
-        "license:apache-2.0",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.083832Z",
-      "score": 0.9992
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "EdmondMillion/226-5DvZmwN",
-      "title": "EdmondMillion/226-5DvZmwN",
-      "url": "https://huggingface.co/EdmondMillion/226-5DvZmwN",
-      "author": "EdmondMillion",
-      "created_at": "2026-06-23T07:20:20Z",
-      "updated_at": "2026-06-23T07:20:20Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.083859Z",
-      "score": 0.9992
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "linekDev/group_1.7B-MT",
-      "title": "linekDev/group_1.7B-MT",
-      "url": "https://huggingface.co/linekDev/group_1.7B-MT",
-      "author": "linekDev",
-      "created_at": "2026-06-23T07:20:14Z",
-      "updated_at": "2026-06-23T07:21:07Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "safetensors",
-        "qwen3",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.083888Z",
+      "fetched_at": "2026-06-23T08:02:23.014281Z",
       "score": 3.9991
     },
     {
       "source": "huggingface",
       "type": "model",
-      "id": "Muapi/pony-xl-1-5-roxanne-isekai-meikyuu-de-harem-wo",
-      "title": "Muapi/pony-xl-1-5-roxanne-isekai-meikyuu-de-harem-wo",
-      "url": "https://huggingface.co/Muapi/pony-xl-1-5-roxanne-isekai-meikyuu-de-harem-wo",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:20:02Z",
-      "updated_at": "2026-06-23T07:20:10Z",
+      "id": "lck0328/Code_RL_round2_a_1",
+      "title": "lck0328/Code_RL_round2_a_1",
+      "url": "https://huggingface.co/lck0328/Code_RL_round2_a_1",
+      "author": "lck0328",
+      "created_at": "2026-06-23T08:01:04Z",
+      "updated_at": "2026-06-23T08:01:04Z",
       "metrics": {
         "downloads": 0,
         "likes": 0
       },
       "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "pony",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.083916Z",
-      "score": 3.999
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/wu-guanzhong-style",
-      "title": "Muapi/wu-guanzhong-style",
-      "url": "https://huggingface.co/Muapi/wu-guanzhong-style",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:19:56Z",
-      "updated_at": "2026-06-23T07:20:03Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "sdxl",
-        "sdxl-1.0",
-        "base_model:stabilityai/stable-diffusion-xl-base-1.0",
-        "base_model:adapter:stabilityai/stable-diffusion-xl-base-1.0",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.083944Z",
-      "score": 3.9989
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/label_vectors_by_sarcastic_tofu",
-      "title": "Muapi/label_vectors_by_sarcastic_tofu",
-      "url": "https://huggingface.co/Muapi/label_vectors_by_sarcastic_tofu",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:19:54Z",
-      "updated_at": "2026-06-23T07:20:03Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "flux",
-        "flux.1-d",
-        "base_model:black-forest-labs/FLUX.1-dev",
-        "base_model:adapter:black-forest-labs/FLUX.1-dev",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.083973Z",
-      "score": 0.9989
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "mlboydaisuke/sam3-CoreAI-official",
-      "title": "mlboydaisuke/sam3-CoreAI-official",
-      "url": "https://huggingface.co/mlboydaisuke/sam3-CoreAI-official",
-      "author": "mlboydaisuke",
-      "created_at": "2026-06-23T07:19:38Z",
-      "updated_at": "2026-06-23T07:20:09Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "coreai",
-        "apple",
-        "aimodel",
-        "apple-silicon",
-        "segmentation",
-        "sam3",
-        "image-segmentation",
-        "base_model:facebook/sam3",
-        "base_model:finetune:facebook/sam3",
-        "license:other",
-        "region:us"
-      ],
-      "summary": "image-segmentation",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084003Z",
-      "score": 0.9987
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "hacnho/pickle-scanner-bypass-ctypes-dlopen",
-      "title": "hacnho/pickle-scanner-bypass-ctypes-dlopen",
-      "url": "https://huggingface.co/hacnho/pickle-scanner-bypass-ctypes-dlopen",
-      "author": "hacnho",
-      "created_at": "2026-06-23T07:19:38Z",
-      "updated_at": "2026-06-23T07:19:49Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "security",
-        "proof-of-concept",
-        "pickle-scanner-bypass",
-        "license:mit",
         "region:us"
       ],
       "summary": "",
       "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084055Z",
-      "score": 0.9987
+      "fetched_at": "2026-06-23T08:02:23.014319Z",
+      "score": 0.9991
     },
     {
       "source": "huggingface",
       "type": "model",
-      "id": "Muapi/stomper-doggystyle-pose-illustrious",
-      "title": "Muapi/stomper-doggystyle-pose-illustrious",
-      "url": "https://huggingface.co/Muapi/stomper-doggystyle-pose-illustrious",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:19:28Z",
-      "updated_at": "2026-06-23T07:21:20Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "illustrious",
-        "base_model:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "base_model:adapter:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "license:openrail++",
-        "region:us",
-        "not-for-all-audiences"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084084Z",
-      "score": 3.9986
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "TalentPigs/Affine-5Hpfwi6VckpBzLW1zw8Wzxb6dcazgR5z5THScBgeMGqG2U7p",
-      "title": "TalentPigs/Affine-5Hpfwi6VckpBzLW1zw8Wzxb6dcazgR5z5THScBgeMGqG2U7p",
-      "url": "https://huggingface.co/TalentPigs/Affine-5Hpfwi6VckpBzLW1zw8Wzxb6dcazgR5z5THScBgeMGqG2U7p",
-      "author": "TalentPigs",
-      "created_at": "2026-06-23T07:19:26Z",
-      "updated_at": "2026-06-23T07:19:27Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "safetensors",
-        "qwen3_5_moe",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084117Z",
-      "score": 3.9986
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/chrono-divinities-by-hailoknight",
-      "title": "Muapi/chrono-divinities-by-hailoknight",
-      "url": "https://huggingface.co/Muapi/chrono-divinities-by-hailoknight",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:19:26Z",
-      "updated_at": "2026-06-23T07:19:34Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "flux",
-        "flux.1-d",
-        "base_model:black-forest-labs/FLUX.1-dev",
-        "base_model:adapter:black-forest-labs/FLUX.1-dev",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084145Z",
-      "score": 0.9986
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/julia-harvey-ay-papi-pony-xl-illustrious-sd1.5",
-      "title": "Muapi/julia-harvey-ay-papi-pony-xl-illustrious-sd1.5",
-      "url": "https://huggingface.co/Muapi/julia-harvey-ay-papi-pony-xl-illustrious-sd1.5",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:19:13Z",
-      "updated_at": "2026-06-23T07:19:33Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "pony",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084174Z",
-      "score": 3.9984
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Potatolike/kokoro-german-martin-lemonade",
-      "title": "Potatolike/kokoro-german-martin-lemonade",
-      "url": "https://huggingface.co/Potatolike/kokoro-german-martin-lemonade",
-      "author": "Potatolike",
-      "created_at": "2026-06-23T07:19:13Z",
-      "updated_at": "2026-06-23T07:19:13Z",
+      "id": "aishaluyi/lineonline",
+      "title": "aishaluyi/lineonline",
+      "url": "https://huggingface.co/aishaluyi/lineonline",
+      "author": "aishaluyi",
+      "created_at": "2026-06-23T08:00:58Z",
+      "updated_at": "2026-06-23T08:01:00Z",
       "metrics": {
         "downloads": 0,
         "likes": 0
@@ -544,76 +201,18 @@
       ],
       "summary": "",
       "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084201Z",
-      "score": 0.9984
+      "fetched_at": "2026-06-23T08:02:23.014368Z",
+      "score": 0.999
     },
     {
       "source": "huggingface",
       "type": "model",
-      "id": "Muapi/close-up-facesitting-facesit-pov-ass-pussy",
-      "title": "Muapi/close-up-facesitting-facesit-pov-ass-pussy",
-      "url": "https://huggingface.co/Muapi/close-up-facesitting-facesit-pov-ass-pussy",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:18:17Z",
-      "updated_at": "2026-06-23T07:18:34Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "illustrious",
-        "base_model:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "base_model:adapter:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "license:openrail++",
-        "region:us",
-        "not-for-all-audiences"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084229Z",
-      "score": 3.9978
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/butt-crack",
-      "title": "Muapi/butt-crack",
-      "url": "https://huggingface.co/Muapi/butt-crack",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:18:12Z",
-      "updated_at": "2026-06-23T07:18:18Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "pony",
-        "license:openrail++",
-        "region:us",
-        "not-for-all-audiences"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084258Z",
-      "score": 3.9977
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "mayanktak15/yolo8",
-      "title": "mayanktak15/yolo8",
-      "url": "https://huggingface.co/mayanktak15/yolo8",
-      "author": "mayanktak15",
-      "created_at": "2026-06-23T07:18:09Z",
-      "updated_at": "2026-06-23T07:18:10Z",
+      "id": "tayojabar/Kinyarwanda_ASR",
+      "title": "tayojabar/Kinyarwanda_ASR",
+      "url": "https://huggingface.co/tayojabar/Kinyarwanda_ASR",
+      "author": "tayojabar",
+      "created_at": "2026-06-23T08:00:56Z",
+      "updated_at": "2026-06-23T08:00:56Z",
       "metrics": {
         "downloads": 0,
         "likes": 0
@@ -623,1709 +222,77 @@
       ],
       "summary": "",
       "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084285Z",
-      "score": 0.9977
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "KRICT-AI/MARA",
-      "title": "KRICT-AI/MARA",
-      "url": "https://huggingface.co/KRICT-AI/MARA",
-      "author": "KRICT-AI",
-      "created_at": "2026-06-23T07:18:03Z",
-      "updated_at": "2026-06-23T07:18:03Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "license:cc-by-nc-nd-4.0",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084310Z",
-      "score": 0.9976
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "layai/fallacyFT-news-dict",
-      "title": "layai/fallacyFT-news-dict",
-      "url": "https://huggingface.co/layai/fallacyFT-news-dict",
-      "author": "layai",
-      "created_at": "2026-06-23T07:17:56Z",
-      "updated_at": "2026-06-23T07:17:56Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084337Z",
-      "score": 0.9975
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "simonycl/qwen3-30b-noprop-nomem-6skill-0617-iter159",
-      "title": "simonycl/qwen3-30b-noprop-nomem-6skill-0617-iter159",
-      "url": "https://huggingface.co/simonycl/qwen3-30b-noprop-nomem-6skill-0617-iter159",
-      "author": "simonycl",
-      "created_at": "2026-06-23T07:17:38Z",
-      "updated_at": "2026-06-23T07:17:39Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084368Z",
-      "score": 3.9973
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "simonycl/qwen3-30b-noprop-nomem-6skill-0617-iter143",
-      "title": "simonycl/qwen3-30b-noprop-nomem-6skill-0617-iter143",
-      "url": "https://huggingface.co/simonycl/qwen3-30b-noprop-nomem-6skill-0617-iter143",
-      "author": "simonycl",
-      "created_at": "2026-06-23T07:17:38Z",
-      "updated_at": "2026-06-23T07:17:39Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084415Z",
-      "score": 3.9973
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "rootti/model-222",
-      "title": "rootti/model-222",
-      "url": "https://huggingface.co/rootti/model-222",
-      "author": "rootti",
-      "created_at": "2026-06-23T07:17:29Z",
-      "updated_at": "2026-06-23T07:17:30Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "safetensors",
-        "qwen3_5_moe",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084455Z",
-      "score": 3.9972
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/dominic-qwek-s-art-style-xl",
-      "title": "Muapi/dominic-qwek-s-art-style-xl",
-      "url": "https://huggingface.co/Muapi/dominic-qwek-s-art-style-xl",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:17:28Z",
-      "updated_at": "2026-06-23T07:19:19Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084482Z",
-      "score": 0.9972
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/malebolgia-wrists-and-arms-grabbed-and-pulled-back-from-behind-sex-pose-illustrious",
-      "title": "Muapi/malebolgia-wrists-and-arms-grabbed-and-pulled-back-from-behind-sex-pose-illustrious",
-      "url": "https://huggingface.co/Muapi/malebolgia-wrists-and-arms-grabbed-and-pulled-back-from-behind-sex-pose-illustrious",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:17:02Z",
-      "updated_at": "2026-06-23T07:17:11Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "illustrious",
-        "base_model:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "base_model:adapter:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084510Z",
-      "score": 3.9969
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "tttoola/MyAwesomeModel-TestRepo",
-      "title": "tttoola/MyAwesomeModel-TestRepo",
-      "url": "https://huggingface.co/tttoola/MyAwesomeModel-TestRepo",
-      "author": "tttoola",
-      "created_at": "2026-06-23T07:16:39Z",
-      "updated_at": "2026-06-23T07:16:43Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "transformers",
-        "pytorch",
-        "bert",
-        "feature-extraction",
-        "license:mit",
-        "endpoints_compatible",
-        "region:us"
-      ],
-      "summary": "feature-extraction",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084539Z",
-      "score": 0.9966
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/penis-dildo-size-slider",
-      "title": "Muapi/penis-dildo-size-slider",
-      "url": "https://huggingface.co/Muapi/penis-dildo-size-slider",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:16:20Z",
-      "updated_at": "2026-06-23T07:16:32Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "illustrious",
-        "base_model:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "base_model:adapter:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "license:openrail++",
-        "region:us",
-        "not-for-all-audiences"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084566Z",
-      "score": 3.9964
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/spanking-by-implement-inpaint-bdsm-sdxl-pony",
-      "title": "Muapi/spanking-by-implement-inpaint-bdsm-sdxl-pony",
-      "url": "https://huggingface.co/Muapi/spanking-by-implement-inpaint-bdsm-sdxl-pony",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:16:19Z",
-      "updated_at": "2026-06-23T07:17:43Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "pony",
-        "license:openrail++",
-        "region:us",
-        "not-for-all-audiences"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084594Z",
-      "score": 3.9964
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "PhoenixHu/2026_06_22_06_54_43_cot_ratio_075_v12",
-      "title": "PhoenixHu/2026_06_22_06_54_43_cot_ratio_075_v12",
-      "url": "https://huggingface.co/PhoenixHu/2026_06_22_06_54_43_cot_ratio_075_v12",
-      "author": "PhoenixHu",
-      "created_at": "2026-06-23T07:15:52Z",
-      "updated_at": "2026-06-23T07:16:18Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084740Z",
-      "score": 0.9961
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/fluffyfluxxy",
-      "title": "Muapi/fluffyfluxxy",
-      "url": "https://huggingface.co/Muapi/fluffyfluxxy",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:15:49Z",
-      "updated_at": "2026-06-23T07:15:58Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "flux",
-        "flux.1-d",
-        "base_model:black-forest-labs/FLUX.1-dev",
-        "base_model:adapter:black-forest-labs/FLUX.1-dev",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084773Z",
-      "score": 0.9961
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/modern-retro-anime-flux-pony-ill-zit",
-      "title": "Muapi/modern-retro-anime-flux-pony-ill-zit",
-      "url": "https://huggingface.co/Muapi/modern-retro-anime-flux-pony-ill-zit",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:15:48Z",
-      "updated_at": "2026-06-23T07:16:13Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "illustrious",
-        "base_model:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "base_model:adapter:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084805Z",
-      "score": 3.9961
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "sagnikdas-ml/qwen-0.5b-epistemology-lora-v2",
-      "title": "sagnikdas-ml/qwen-0.5b-epistemology-lora-v2",
-      "url": "https://huggingface.co/sagnikdas-ml/qwen-0.5b-epistemology-lora-v2",
-      "author": "sagnikdas-ml",
-      "created_at": "2026-06-23T07:15:36Z",
-      "updated_at": "2026-06-23T07:15:49Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "peft",
-        "safetensors",
-        "base_model:adapter:Qwen/Qwen2.5-0.5B-Instruct",
-        "lora",
-        "transformers",
-        "text-generation",
-        "conversational",
-        "arxiv:1910.09700",
-        "base_model:Qwen/Qwen2.5-0.5B-Instruct",
-        "region:us"
-      ],
-      "summary": "text-generation",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084835Z",
-      "score": 3.9959
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/fatale-comic-style-pony-flux",
-      "title": "Muapi/fatale-comic-style-pony-flux",
-      "url": "https://huggingface.co/Muapi/fatale-comic-style-pony-flux",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:15:23Z",
-      "updated_at": "2026-06-23T07:15:32Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "flux",
-        "flux.1-d",
-        "base_model:black-forest-labs/FLUX.1-dev",
-        "base_model:adapter:black-forest-labs/FLUX.1-dev",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084862Z",
-      "score": 0.9958
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/envy-technobrutalist-xl-01",
-      "title": "Muapi/envy-technobrutalist-xl-01",
-      "url": "https://huggingface.co/Muapi/envy-technobrutalist-xl-01",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:15:03Z",
-      "updated_at": "2026-06-23T07:15:22Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "sdxl",
-        "sdxl-1.0",
-        "base_model:stabilityai/stable-diffusion-xl-base-1.0",
-        "base_model:adapter:stabilityai/stable-diffusion-xl-base-1.0",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084888Z",
-      "score": 3.9955
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/animagine-oozora-subaru-hololive",
-      "title": "Muapi/animagine-oozora-subaru-hololive",
-      "url": "https://huggingface.co/Muapi/animagine-oozora-subaru-hololive",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:14:27Z",
-      "updated_at": "2026-06-23T07:14:41Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "sdxl",
-        "sdxl-1.0",
-        "base_model:stabilityai/stable-diffusion-xl-base-1.0",
-        "base_model:adapter:stabilityai/stable-diffusion-xl-base-1.0",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084915Z",
-      "score": 3.9951
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/hayase-nagatoro-8-outfits-style-illustrious-ijiranaide-nagatoro-san",
-      "title": "Muapi/hayase-nagatoro-8-outfits-style-illustrious-ijiranaide-nagatoro-san",
-      "url": "https://huggingface.co/Muapi/hayase-nagatoro-8-outfits-style-illustrious-ijiranaide-nagatoro-san",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:14:24Z",
-      "updated_at": "2026-06-23T07:14:31Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "illustrious",
-        "base_model:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "base_model:adapter:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084941Z",
-      "score": 3.9951
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "EdmondMillion/20-5H3ixrb",
-      "title": "EdmondMillion/20-5H3ixrb",
-      "url": "https://huggingface.co/EdmondMillion/20-5H3ixrb",
-      "author": "EdmondMillion",
-      "created_at": "2026-06-23T07:14:23Z",
-      "updated_at": "2026-06-23T07:16:21Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "safetensors",
-        "qwen3_5_moe",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.084973Z",
-      "score": 3.9951
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "CrossBaseArithmetic/arithmetic-model-L1_H16_D32",
-      "title": "CrossBaseArithmetic/arithmetic-model-L1_H16_D32",
-      "url": "https://huggingface.co/CrossBaseArithmetic/arithmetic-model-L1_H16_D32",
-      "author": "CrossBaseArithmetic",
-      "created_at": "2026-06-23T07:14:00Z",
-      "updated_at": "2026-06-23T07:21:06Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "safetensors",
-        "gpt2",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085003Z",
-      "score": 0.9948
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "simonycl/qwen3-30b-noprop-nomem-6skill-0617-iter127",
-      "title": "simonycl/qwen3-30b-noprop-nomem-6skill-0617-iter127",
-      "url": "https://huggingface.co/simonycl/qwen3-30b-noprop-nomem-6skill-0617-iter127",
-      "author": "simonycl",
-      "created_at": "2026-06-23T07:13:40Z",
-      "updated_at": "2026-06-23T07:13:40Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085027Z",
-      "score": 3.9946
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/ahri-sdxl-league-of-legends",
-      "title": "Muapi/ahri-sdxl-league-of-legends",
-      "url": "https://huggingface.co/Muapi/ahri-sdxl-league-of-legends",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:13:37Z",
-      "updated_at": "2026-06-23T07:14:05Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "sdxl",
-        "sdxl-1.0",
-        "base_model:stabilityai/stable-diffusion-xl-base-1.0",
-        "base_model:adapter:stabilityai/stable-diffusion-xl-base-1.0",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085053Z",
-      "score": 3.9945
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/virtual-asian-female-character-04",
-      "title": "Muapi/virtual-asian-female-character-04",
-      "url": "https://huggingface.co/Muapi/virtual-asian-female-character-04",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:13:35Z",
-      "updated_at": "2026-06-23T07:15:09Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "flux",
-        "flux.1-d",
-        "base_model:black-forest-labs/FLUX.1-dev",
-        "base_model:adapter:black-forest-labs/FLUX.1-dev",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085086Z",
-      "score": 0.9945
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "simonycl/qwen3-30b-plateau-2skill-0617-iter239",
-      "title": "simonycl/qwen3-30b-plateau-2skill-0617-iter239",
-      "url": "https://huggingface.co/simonycl/qwen3-30b-plateau-2skill-0617-iter239",
-      "author": "simonycl",
-      "created_at": "2026-06-23T07:13:21Z",
-      "updated_at": "2026-06-23T07:15:34Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "transformers",
-        "safetensors",
-        "qwen3_moe",
-        "text-generation",
-        "conversational",
-        "arxiv:2402.17463",
-        "arxiv:2407.02490",
-        "arxiv:2501.15383",
-        "arxiv:2404.06654",
-        "arxiv:2505.09388",
-        "license:apache-2.0",
-        "endpoints_compatible",
-        "region:us"
-      ],
-      "summary": "text-generation",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085122Z",
-      "score": 3.9944
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/android-18-dragon-ball",
-      "title": "Muapi/android-18-dragon-ball",
-      "url": "https://huggingface.co/Muapi/android-18-dragon-ball",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:13:20Z",
-      "updated_at": "2026-06-23T07:13:46Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "illustrious",
-        "base_model:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "base_model:adapter:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085149Z",
-      "score": 6.9943
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "simonycl/qwen3-30b-noprop-nomem-6skill-0617-iter111",
-      "title": "simonycl/qwen3-30b-noprop-nomem-6skill-0617-iter111",
-      "url": "https://huggingface.co/simonycl/qwen3-30b-noprop-nomem-6skill-0617-iter111",
-      "author": "simonycl",
-      "created_at": "2026-06-23T07:13:08Z",
-      "updated_at": "2026-06-23T07:13:08Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085173Z",
-      "score": 3.9942
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/meme_maker-trickcal_revive",
-      "title": "Muapi/meme_maker-trickcal_revive",
-      "url": "https://huggingface.co/Muapi/meme_maker-trickcal_revive",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:13:06Z",
-      "updated_at": "2026-06-23T07:13:20Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "sdxl",
-        "sdxl-1.0",
-        "base_model:stabilityai/stable-diffusion-xl-base-1.0",
-        "base_model:adapter:stabilityai/stable-diffusion-xl-base-1.0",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085199Z",
-      "score": 3.9942
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "simonycl/qwen3-30b-noprop-nomem-6skill-0617-iter95",
-      "title": "simonycl/qwen3-30b-noprop-nomem-6skill-0617-iter95",
-      "url": "https://huggingface.co/simonycl/qwen3-30b-noprop-nomem-6skill-0617-iter95",
-      "author": "simonycl",
-      "created_at": "2026-06-23T07:13:01Z",
-      "updated_at": "2026-06-23T07:13:01Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085223Z",
-      "score": 3.9941
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Aa-Par/my-supply2-model",
-      "title": "Aa-Par/my-supply2-model",
-      "url": "https://huggingface.co/Aa-Par/my-supply2-model",
-      "author": "Aa-Par",
-      "created_at": "2026-06-23T07:12:18Z",
-      "updated_at": "2026-06-23T07:12:56Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "gguf",
-        "mistral",
-        "llama.cpp",
-        "unsloth",
-        "endpoints_compatible",
-        "region:us",
-        "conversational"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085250Z",
-      "score": 3.9936
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Ayoubadanabdi/Somali-tts",
-      "title": "Ayoubadanabdi/Somali-tts",
-      "url": "https://huggingface.co/Ayoubadanabdi/Somali-tts",
-      "author": "Ayoubadanabdi",
-      "created_at": "2026-06-23T07:12:17Z",
-      "updated_at": "2026-06-23T07:12:17Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085326Z",
-      "score": 0.9936
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/chinese-paper-cutting-flux",
-      "title": "Muapi/chinese-paper-cutting-flux",
-      "url": "https://huggingface.co/Muapi/chinese-paper-cutting-flux",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:12:14Z",
-      "updated_at": "2026-06-23T07:12:58Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "flux",
-        "flux.1-d",
-        "base_model:black-forest-labs/FLUX.1-dev",
-        "base_model:adapter:black-forest-labs/FLUX.1-dev",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085376Z",
-      "score": 0.9936
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "yyk-huggingface/minicpm5-1b-onnx-int8",
-      "title": "yyk-huggingface/minicpm5-1b-onnx-int8",
-      "url": "https://huggingface.co/yyk-huggingface/minicpm5-1b-onnx-int8",
-      "author": "yyk-huggingface",
-      "created_at": "2026-06-23T07:12:13Z",
-      "updated_at": "2026-06-23T07:12:13Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085404Z",
-      "score": 0.9936
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/honeystylexl",
-      "title": "Muapi/honeystylexl",
-      "url": "https://huggingface.co/Muapi/honeystylexl",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:12:13Z",
-      "updated_at": "2026-06-23T07:12:23Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "sdxl",
-        "sdxl-1.0",
-        "base_model:stabilityai/stable-diffusion-xl-base-1.0",
-        "base_model:adapter:stabilityai/stable-diffusion-xl-base-1.0",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085432Z",
-      "score": 3.9936
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "layai/fallacyFT-news-context-loss",
-      "title": "layai/fallacyFT-news-context-loss",
-      "url": "https://huggingface.co/layai/fallacyFT-news-context-loss",
-      "author": "layai",
-      "created_at": "2026-06-23T07:12:01Z",
-      "updated_at": "2026-06-23T07:17:41Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "safetensors",
-        "llama",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085473Z",
-      "score": 3.9934
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Aliyan0khan/aliyan-ai",
-      "title": "Aliyan0khan/aliyan-ai",
-      "url": "https://huggingface.co/Aliyan0khan/aliyan-ai",
-      "author": "Aliyan0khan",
-      "created_at": "2026-06-23T07:11:50Z",
-      "updated_at": "2026-06-23T07:12:08Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "transformers",
-        "safetensors",
-        "text-generation-inference",
-        "unsloth",
-        "llama",
-        "trl",
-        "en",
-        "base_model:unsloth/Llama-3.2-1B-bnb-4bit",
-        "base_model:finetune:unsloth/Llama-3.2-1B-bnb-4bit",
-        "license:apache-2.0",
-        "endpoints_compatible",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085501Z",
-      "score": 3.9933
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/deep-deepthroat-lora",
-      "title": "Muapi/deep-deepthroat-lora",
-      "url": "https://huggingface.co/Muapi/deep-deepthroat-lora",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:11:49Z",
-      "updated_at": "2026-06-23T07:12:07Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "illustrious",
-        "base_model:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "base_model:adapter:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085528Z",
-      "score": 3.9933
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Niazi/Qwen2.5-7B-W4A16ASYM-AWQ",
-      "title": "Niazi/Qwen2.5-7B-W4A16ASYM-AWQ",
-      "url": "https://huggingface.co/Niazi/Qwen2.5-7B-W4A16ASYM-AWQ",
-      "author": "Niazi",
-      "created_at": "2026-06-23T07:11:43Z",
-      "updated_at": "2026-06-23T07:14:23Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "safetensors",
-        "qwen2",
-        "compressed-tensors",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085556Z",
-      "score": 3.9932
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Arko007/trustworthy-gnn-fraud-models",
-      "title": "Arko007/trustworthy-gnn-fraud-models",
-      "url": "https://huggingface.co/Arko007/trustworthy-gnn-fraud-models",
-      "author": "Arko007",
-      "created_at": "2026-06-23T07:11:07Z",
-      "updated_at": "2026-06-23T07:11:07Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085581Z",
-      "score": 0.9928
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/ilxl-good-morning-fellatio-sex",
-      "title": "Muapi/ilxl-good-morning-fellatio-sex",
-      "url": "https://huggingface.co/Muapi/ilxl-good-morning-fellatio-sex",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:11:02Z",
-      "updated_at": "2026-06-23T07:11:17Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "illustrious",
-        "base_model:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "base_model:adapter:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085607Z",
-      "score": 3.9927
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/weird-fashion",
-      "title": "Muapi/weird-fashion",
-      "url": "https://huggingface.co/Muapi/weird-fashion",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:11:02Z",
-      "updated_at": "2026-06-23T07:11:37Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "sdxl",
-        "sdxl-1.0",
-        "base_model:stabilityai/stable-diffusion-xl-base-1.0",
-        "base_model:adapter:stabilityai/stable-diffusion-xl-base-1.0",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085639Z",
-      "score": 3.9927
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "hippo-master/TianXingAffine-model-5DvZmwNB32v58R7eH3T343zNyRRMLNNramaqw5fLVSP9a81t",
-      "title": "hippo-master/TianXingAffine-model-5DvZmwNB32v58R7eH3T343zNyRRMLNNramaqw5fLVSP9a81t",
-      "url": "https://huggingface.co/hippo-master/TianXingAffine-model-5DvZmwNB32v58R7eH3T343zNyRRMLNNramaqw5fLVSP9a81t",
-      "author": "hippo-master",
-      "created_at": "2026-06-23T07:10:53Z",
-      "updated_at": "2026-06-23T07:17:58Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "safetensors",
-        "qwen3_5_moe",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085671Z",
-      "score": 3.9926
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "fpadovani/heb-hebr-100mb-100mb_seed3407",
-      "title": "fpadovani/heb-hebr-100mb-100mb_seed3407",
-      "url": "https://huggingface.co/fpadovani/heb-hebr-100mb-100mb_seed3407",
-      "author": "fpadovani",
-      "created_at": "2026-06-23T07:10:47Z",
-      "updated_at": "2026-06-23T07:18:18Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "transformers",
-        "safetensors",
-        "gpt2",
-        "text-generation",
-        "generated_from_trainer",
-        "trl",
-        "sft",
-        "base_model:goldfish-models/heb_hebr_100mb",
-        "base_model:finetune:goldfish-models/heb_hebr_100mb",
-        "text-generation-inference",
-        "endpoints_compatible",
-        "region:us"
-      ],
-      "summary": "text-generation",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085713Z",
-      "score": 0.9926
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "mradermacher/Memorable-Dream-12B-Heretic-GGUF",
-      "title": "mradermacher/Memorable-Dream-12B-Heretic-GGUF",
-      "url": "https://huggingface.co/mradermacher/Memorable-Dream-12B-Heretic-GGUF",
-      "author": "mradermacher",
-      "created_at": "2026-06-23T07:10:31Z",
-      "updated_at": "2026-06-23T07:10:35Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085739Z",
-      "score": 0.9924
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "mradermacher/Barcenas-31b-Fable-GGUF",
-      "title": "mradermacher/Barcenas-31b-Fable-GGUF",
-      "url": "https://huggingface.co/mradermacher/Barcenas-31b-Fable-GGUF",
-      "author": "mradermacher",
-      "created_at": "2026-06-23T07:10:04Z",
-      "updated_at": "2026-06-23T07:21:14Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "gguf",
-        "endpoints_compatible",
-        "region:us",
-        "conversational"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085768Z",
-      "score": 0.9921
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/fantasy-graphite-sketch",
-      "title": "Muapi/fantasy-graphite-sketch",
-      "url": "https://huggingface.co/Muapi/fantasy-graphite-sketch",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:09:51Z",
-      "updated_at": "2026-06-23T07:10:04Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "stable-diffusion-xl",
-        "illustrious",
-        "base_model:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "base_model:adapter:OnomaAIResearch/Illustrious-xl-early-release-v0",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085794Z",
-      "score": 3.9919
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "mradermacher/gemma-4-12B-uncensored-opus4.7-cot-GGUF",
-      "title": "mradermacher/gemma-4-12B-uncensored-opus4.7-cot-GGUF",
-      "url": "https://huggingface.co/mradermacher/gemma-4-12B-uncensored-opus4.7-cot-GGUF",
-      "author": "mradermacher",
-      "created_at": "2026-06-23T07:09:49Z",
-      "updated_at": "2026-06-23T07:21:14Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "transformers",
-        "gguf",
-        "gemma",
-        "uncensored",
-        "abliterated",
-        "chain-of-thought",
-        "claude-opus",
-        "qlora",
-        "en",
-        "base_model:Rangle2/gemma-4-12B-uncensored-opus4.7-cot",
-        "base_model:quantized:Rangle2/gemma-4-12B-uncensored-opus4.7-cot",
-        "license:gemma",
-        "endpoints_compatible",
-        "region:us",
-        "conversational"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085823Z",
-      "score": 0.9919
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/ctai-tribe",
-      "title": "Muapi/ctai-tribe",
-      "url": "https://huggingface.co/Muapi/ctai-tribe",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:09:43Z",
-      "updated_at": "2026-06-23T07:10:25Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "diffusers",
-        "lora",
-        "text-to-image",
-        "flux",
-        "flux.1-d",
-        "base_model:black-forest-labs/FLUX.1-dev",
-        "base_model:adapter:black-forest-labs/FLUX.1-dev",
-        "license:openrail++",
-        "region:us"
-      ],
-      "summary": "text-to-image",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085849Z",
-      "score": 0.9918
-    },
-    {
-      "source": "huggingface",
-      "type": "model",
-      "id": "Muapi/detailed-pussy-pony",
-      "title": "Muapi/detailed-pussy-pony",
-      "url": "https://huggingface.co/Muapi/detailed-pussy-pony",
-      "author": "Muapi",
-      "created_at": "2026-06-23T07:09:39Z",
-      "updated_at": "2026-06-23T07:09:39Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us",
-        "not-for-all-audiences"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.085872Z",
-      "score": 0.9918
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "procedure2012/Annoy-PyEdu-Rs",
-      "title": "procedure2012/Annoy-PyEdu-Rs",
-      "url": "https://huggingface.co/datasets/procedure2012/Annoy-PyEdu-Rs",
-      "author": "procedure2012",
-      "created_at": "2026-06-23T07:20:05Z",
-      "updated_at": "2026-06-23T07:20:07Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766047Z",
+      "fetched_at": "2026-06-23T08:02:23.014404Z",
       "score": 0.999
     },
     {
       "source": "huggingface",
       "type": "dataset",
-      "id": "procedure2012/Annoy-PyEdu-Rs-Raw",
-      "title": "procedure2012/Annoy-PyEdu-Rs-Raw",
-      "url": "https://huggingface.co/datasets/procedure2012/Annoy-PyEdu-Rs-Raw",
-      "author": "procedure2012",
-      "created_at": "2026-06-23T07:20:05Z",
-      "updated_at": "2026-06-23T07:20:08Z",
+      "id": "medlinx/RuClinNER",
+      "title": "medlinx/RuClinNER",
+      "url": "https://huggingface.co/datasets/medlinx/RuClinNER",
+      "author": "medlinx",
+      "created_at": "2026-06-23T08:01:39Z",
+      "updated_at": "2026-06-23T08:01:48Z",
       "metrics": {
         "downloads": 0,
         "likes": 0
       },
       "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766103Z",
-      "score": 0.999
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "lihongwei1018/openarm-quest3-3rgb-joint-v16-pick-pickage",
-      "title": "lihongwei1018/openarm-quest3-3rgb-joint-v16-pick-pickage",
-      "url": "https://huggingface.co/datasets/lihongwei1018/openarm-quest3-3rgb-joint-v16-pick-pickage",
-      "author": "lihongwei1018",
-      "created_at": "2026-06-23T07:19:48Z",
-      "updated_at": "2026-06-23T07:19:48Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766137Z",
-      "score": 0.9988
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "GSMS-B/India-Legal-QA-BNS-BNSS-BSA",
-      "title": "GSMS-B/India-Legal-QA-BNS-BNSS-BSA",
-      "url": "https://huggingface.co/datasets/GSMS-B/India-Legal-QA-BNS-BNSS-BSA",
-      "author": "GSMS-B",
-      "created_at": "2026-06-23T07:19:45Z",
-      "updated_at": "2026-06-23T07:20:13Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "license:apache-2.0",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766197Z",
-      "score": 0.9988
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "asasdsss/Annoy-PyEdu-Rs-Raw",
-      "title": "asasdsss/Annoy-PyEdu-Rs-Raw",
-      "url": "https://huggingface.co/datasets/asasdsss/Annoy-PyEdu-Rs-Raw",
-      "author": "asasdsss",
-      "created_at": "2026-06-23T07:19:41Z",
-      "updated_at": "2026-06-23T07:19:43Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766229Z",
-      "score": 0.9987
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "asasdsss/Annoy-PyEdu-Rs",
-      "title": "asasdsss/Annoy-PyEdu-Rs",
-      "url": "https://huggingface.co/datasets/asasdsss/Annoy-PyEdu-Rs",
-      "author": "asasdsss",
-      "created_at": "2026-06-23T07:19:40Z",
-      "updated_at": "2026-06-23T07:19:42Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766258Z",
-      "score": 0.9987
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "wangyiyi666/model-optimizer-queue",
-      "title": "wangyiyi666/model-optimizer-queue",
-      "url": "https://huggingface.co/datasets/wangyiyi666/model-optimizer-queue",
-      "author": "wangyiyi666",
-      "created_at": "2026-06-23T07:19:08Z",
-      "updated_at": "2026-06-23T07:19:25Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766287Z",
-      "score": 0.9984
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "KyraLeeChunWei/Pick_up_Clarityn-D_v3",
-      "title": "KyraLeeChunWei/Pick_up_Clarityn-D_v3",
-      "url": "https://huggingface.co/datasets/KyraLeeChunWei/Pick_up_Clarityn-D_v3",
-      "author": "KyraLeeChunWei",
-      "created_at": "2026-06-23T07:17:34Z",
-      "updated_at": "2026-06-23T07:17:34Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766321Z",
-      "score": 0.9973
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "PumeTu/mieb-train",
-      "title": "PumeTu/mieb-train",
-      "url": "https://huggingface.co/datasets/PumeTu/mieb-train",
-      "author": "PumeTu",
-      "created_at": "2026-06-23T07:16:41Z",
-      "updated_at": "2026-06-23T07:16:42Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766350Z",
-      "score": 0.9967
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "Srijan-Upadhyay/formula-ocr-synth-bench",
-      "title": "Srijan-Upadhyay/formula-ocr-synth-bench",
-      "url": "https://huggingface.co/datasets/Srijan-Upadhyay/formula-ocr-synth-bench",
-      "author": "Srijan-Upadhyay",
-      "created_at": "2026-06-23T07:15:59Z",
-      "updated_at": "2026-06-23T07:16:10Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766385Z",
-      "score": 0.9962
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "milord-x/KazNU-OCR-Layout-dataset",
-      "title": "milord-x/KazNU-OCR-Layout-dataset",
-      "url": "https://huggingface.co/datasets/milord-x/KazNU-OCR-Layout-dataset",
-      "author": "milord-x",
-      "created_at": "2026-06-23T07:15:28Z",
-      "updated_at": "2026-06-23T07:15:29Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "license:mit",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766417Z",
-      "score": 0.9958
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "CassioLuisBatista/ereno-ids",
-      "title": "CassioLuisBatista/ereno-ids",
-      "url": "https://huggingface.co/datasets/CassioLuisBatista/ereno-ids",
-      "author": "CassioLuisBatista",
-      "created_at": "2026-06-23T07:15:05Z",
-      "updated_at": "2026-06-23T07:15:17Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766446Z",
-      "score": 0.9956
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "cheolhyunkim/omx_f_PAP",
-      "title": "cheolhyunkim/omx_f_PAP",
-      "url": "https://huggingface.co/datasets/cheolhyunkim/omx_f_PAP",
-      "author": "cheolhyunkim",
-      "created_at": "2026-06-23T07:14:49Z",
-      "updated_at": "2026-06-23T07:18:07Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766475Z",
-      "score": 0.9954
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "Lotussheep/mw_ppw_30",
-      "title": "Lotussheep/mw_ppw_30",
-      "url": "https://huggingface.co/datasets/Lotussheep/mw_ppw_30",
-      "author": "Lotussheep",
-      "created_at": "2026-06-23T07:14:31Z",
-      "updated_at": "2026-06-23T07:14:31Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766503Z",
-      "score": 0.9952
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "DCAgent2/eval-DCAgent_a1-code_contests_DCAgent_dev_set_v2",
-      "title": "DCAgent2/eval-DCAgent_a1-code_contests_DCAgent_dev_set_v2",
-      "url": "https://huggingface.co/datasets/DCAgent2/eval-DCAgent_a1-code_contests_DCAgent_dev_set_v2",
-      "author": "DCAgent2",
-      "created_at": "2026-06-23T07:12:35Z",
-      "updated_at": "2026-06-23T07:13:06Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766536Z",
-      "score": 3.9938
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "JYeonKim/so101-debug",
-      "title": "JYeonKim/so101-debug",
-      "url": "https://huggingface.co/datasets/JYeonKim/so101-debug",
-      "author": "JYeonKim",
-      "created_at": "2026-06-23T07:12:10Z",
-      "updated_at": "2026-06-23T07:13:08Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766566Z",
-      "score": 0.9935
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "VedhamshBode/umi_box_packing",
-      "title": "VedhamshBode/umi_box_packing",
-      "url": "https://huggingface.co/datasets/VedhamshBode/umi_box_packing",
-      "author": "VedhamshBode",
-      "created_at": "2026-06-23T07:11:28Z",
-      "updated_at": "2026-06-23T07:16:12Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766593Z",
-      "score": 0.993
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "MikeGreen2710/tho_cu_26_06_18_std",
-      "title": "MikeGreen2710/tho_cu_26_06_18_std",
-      "url": "https://huggingface.co/datasets/MikeGreen2710/tho_cu_26_06_18_std",
-      "author": "MikeGreen2710",
-      "created_at": "2026-06-23T07:11:26Z",
-      "updated_at": "2026-06-23T07:12:28Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766625Z",
-      "score": 0.993
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "MikeGreen2710/tho_cu_26_06_16_std",
-      "title": "MikeGreen2710/tho_cu_26_06_16_std",
-      "url": "https://huggingface.co/datasets/MikeGreen2710/tho_cu_26_06_16_std",
-      "author": "MikeGreen2710",
-      "created_at": "2026-06-23T07:11:08Z",
-      "updated_at": "2026-06-23T07:11:08Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766654Z",
-      "score": 0.9928
-    },
-    {
-      "source": "huggingface",
-      "type": "dataset",
-      "id": "chilomax/SWE-smith-trajectories",
-      "title": "chilomax/SWE-smith-trajectories",
-      "url": "https://huggingface.co/datasets/chilomax/SWE-smith-trajectories",
-      "author": "chilomax",
-      "created_at": "2026-06-23T07:10:23Z",
-      "updated_at": "2026-06-23T07:10:23Z",
-      "metrics": {
-        "downloads": 0,
-        "likes": 0
-      },
-      "tags": [
-        "task_categories:text-generation",
-        "language:en",
-        "license:mit",
+        "task_categories:token-classification",
+        "task_ids:named-entity-recognition",
+        "annotations_creators:expert-generated",
+        "multilinguality:monolingual",
+        "source_datasets:original",
+        "language:ru",
+        "license:cc-by-nc-sa-4.0",
         "size_categories:1K<n<10K",
-        "arxiv:2504.21798",
         "region:us",
-        "code",
-        "agents",
-        "software-engineering"
+        "clinical",
+        "medical",
+        "biomedical",
+        "named-entity-recognition",
+        "nested-ner",
+        "relation-extraction",
+        "entity-linking",
+        "icd-10",
+        "russian"
       ],
       "summary": "",
       "raw": {},
-      "fetched_at": "2026-06-23T07:21:30.766689Z",
-      "score": 3.9923
+      "fetched_at": "2026-06-23T08:02:23.437688Z",
+      "score": 0.9995
+    },
+    {
+      "source": "huggingface",
+      "type": "dataset",
+      "id": "rainbowrobotics/hand_20260623_155042",
+      "title": "rainbowrobotics/hand_20260623_155042",
+      "url": "https://huggingface.co/datasets/rainbowrobotics/hand_20260623_155042",
+      "author": "rainbowrobotics",
+      "created_at": "2026-06-23T08:01:24Z",
+      "updated_at": "2026-06-23T08:01:24Z",
+      "metrics": {
+        "downloads": 0,
+        "likes": 0
+      },
+      "tags": [
+        "region:us"
+      ],
+      "summary": "",
+      "raw": {},
+      "fetched_at": "2026-06-23T08:02:23.437768Z",
+      "score": 0.9993
     },
     {
       "source": "huggingface",
       "type": "space",
-      "id": "MadhanJ/german-english-translator",
-      "title": "MadhanJ/german-english-translator",
-      "url": "https://huggingface.co/spaces/MadhanJ/german-english-translator",
-      "author": "MadhanJ",
-      "created_at": "2026-06-23T07:20:21Z",
-      "updated_at": "2026-06-23T07:20:30Z",
+      "id": "Dev2206/my-custom-chatbot1",
+      "title": "Dev2206/my-custom-chatbot1",
+      "url": "https://huggingface.co/spaces/Dev2206/my-custom-chatbot1",
+      "author": "Dev2206",
+      "created_at": "2026-06-23T08:02:24Z",
+      "updated_at": "2026-06-23T08:02:24Z",
       "metrics": {
         "likes": 0
       },
@@ -2335,39 +302,291 @@
       ],
       "summary": "",
       "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.250843Z",
+      "fetched_at": "2026-06-23T08:02:23.832997Z",
+      "score": 1.0
+    },
+    {
+      "source": "huggingface",
+      "type": "space",
+      "id": "dfdfdsf44/edfedvvv",
+      "title": "dfdfdsf44/edfedvvv",
+      "url": "https://huggingface.co/spaces/dfdfdsf44/edfedvvv",
+      "author": "dfdfdsf44",
+      "created_at": "2026-06-23T08:02:17Z",
+      "updated_at": "2026-06-23T08:02:17Z",
+      "metrics": {
+        "likes": 0
+      },
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "summary": "",
+      "raw": {},
+      "fetched_at": "2026-06-23T08:02:23.833063Z",
+      "score": 0.9999
+    },
+    {
+      "source": "huggingface",
+      "type": "space",
+      "id": "sugash28/Upskill",
+      "title": "sugash28/Upskill",
+      "url": "https://huggingface.co/spaces/sugash28/Upskill",
+      "author": "sugash28",
+      "created_at": "2026-06-23T08:02:13Z",
+      "updated_at": "2026-06-23T08:02:14Z",
+      "metrics": {
+        "likes": 0
+      },
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "summary": "",
+      "raw": {},
+      "fetched_at": "2026-06-23T08:02:23.833105Z",
+      "score": 0.9999
+    },
+    {
+      "source": "huggingface",
+      "type": "space",
+      "id": "Jiya1234567/banking_chatbot_analytics_v2",
+      "title": "Jiya1234567/banking_chatbot_analytics_v2",
+      "url": "https://huggingface.co/spaces/Jiya1234567/banking_chatbot_analytics_v2",
+      "author": "Jiya1234567",
+      "created_at": "2026-06-23T08:02:12Z",
+      "updated_at": "2026-06-23T08:02:14Z",
+      "metrics": {
+        "likes": 0
+      },
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "summary": "",
+      "raw": {},
+      "fetched_at": "2026-06-23T08:02:23.833153Z",
+      "score": 0.9999
+    },
+    {
+      "source": "huggingface",
+      "type": "space",
+      "id": "sanan33/az-law-rag",
+      "title": "sanan33/az-law-rag",
+      "url": "https://huggingface.co/spaces/sanan33/az-law-rag",
+      "author": "sanan33",
+      "created_at": "2026-06-23T08:02:11Z",
+      "updated_at": "2026-06-23T08:02:14Z",
+      "metrics": {
+        "likes": 0
+      },
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "summary": "",
+      "raw": {},
+      "fetched_at": "2026-06-23T08:02:23.833194Z",
+      "score": 3.9999
+    },
+    {
+      "source": "huggingface",
+      "type": "space",
+      "id": "AbdulRehman098765/video_downloader",
+      "title": "AbdulRehman098765/video_downloader",
+      "url": "https://huggingface.co/spaces/AbdulRehman098765/video_downloader",
+      "author": "AbdulRehman098765",
+      "created_at": "2026-06-23T08:02:11Z",
+      "updated_at": "2026-06-23T08:02:14Z",
+      "metrics": {
+        "likes": 0
+      },
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "summary": "",
+      "raw": {},
+      "fetched_at": "2026-06-23T08:02:23.833230Z",
+      "score": 0.9999
+    },
+    {
+      "source": "huggingface",
+      "type": "space",
+      "id": "FabienDanieau/reachy-mini-status",
+      "title": "FabienDanieau/reachy-mini-status",
+      "url": "https://huggingface.co/spaces/FabienDanieau/reachy-mini-status",
+      "author": "FabienDanieau",
+      "created_at": "2026-06-23T08:02:08Z",
+      "updated_at": "2026-06-19T17:07:58Z",
+      "metrics": {
+        "likes": 0
+      },
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "summary": "",
+      "raw": {},
+      "fetched_at": "2026-06-23T08:02:23.833280Z",
+      "score": 0.9998
+    },
+    {
+      "source": "huggingface",
+      "type": "space",
+      "id": "kasarlasaivivek/novameet-backend-2",
+      "title": "kasarlasaivivek/novameet-backend-2",
+      "url": "https://huggingface.co/spaces/kasarlasaivivek/novameet-backend-2",
+      "author": "kasarlasaivivek",
+      "created_at": "2026-06-23T08:02:04Z",
+      "updated_at": "2026-06-23T07:38:37Z",
+      "metrics": {
+        "likes": 0
+      },
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "summary": "",
+      "raw": {},
+      "fetched_at": "2026-06-23T08:02:23.833330Z",
+      "score": 0.9998
+    },
+    {
+      "source": "huggingface",
+      "type": "space",
+      "id": "poojasaurus/product-browser-api",
+      "title": "poojasaurus/product-browser-api",
+      "url": "https://huggingface.co/spaces/poojasaurus/product-browser-api",
+      "author": "poojasaurus",
+      "created_at": "2026-06-23T08:01:59Z",
+      "updated_at": "2026-06-23T08:02:00Z",
+      "metrics": {
+        "likes": 0
+      },
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "summary": "",
+      "raw": {},
+      "fetched_at": "2026-06-23T08:02:23.833369Z",
+      "score": 0.9997
+    },
+    {
+      "source": "huggingface",
+      "type": "space",
+      "id": "VeraSerfhan/LirikLagu",
+      "title": "VeraSerfhan/LirikLagu",
+      "url": "https://huggingface.co/spaces/VeraSerfhan/LirikLagu",
+      "author": "VeraSerfhan",
+      "created_at": "2026-06-23T08:01:58Z",
+      "updated_at": "2026-06-23T08:01:59Z",
+      "metrics": {
+        "likes": 0
+      },
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "summary": "",
+      "raw": {},
+      "fetched_at": "2026-06-23T08:02:23.833412Z",
+      "score": 0.9997
+    },
+    {
+      "source": "huggingface",
+      "type": "space",
+      "id": "haylynndeepshika2008/string_matching_analysis",
+      "title": "haylynndeepshika2008/string_matching_analysis",
+      "url": "https://huggingface.co/spaces/haylynndeepshika2008/string_matching_analysis",
+      "author": "haylynndeepshika2008",
+      "created_at": "2026-06-23T08:01:58Z",
+      "updated_at": "2026-06-23T08:01:58Z",
+      "metrics": {
+        "likes": 0
+      },
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "summary": "",
+      "raw": {},
+      "fetched_at": "2026-06-23T08:02:23.833448Z",
+      "score": 0.9997
+    },
+    {
+      "source": "huggingface",
+      "type": "space",
+      "id": "ParaaAi/Ffc",
+      "title": "ParaaAi/Ffc",
+      "url": "https://huggingface.co/spaces/ParaaAi/Ffc",
+      "author": "ParaaAi",
+      "created_at": "2026-06-23T08:01:47Z",
+      "updated_at": "2026-06-23T08:01:47Z",
+      "metrics": {
+        "likes": 0
+      },
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "summary": "",
+      "raw": {},
+      "fetched_at": "2026-06-23T08:02:23.833480Z",
+      "score": 0.9996
+    },
+    {
+      "source": "huggingface",
+      "type": "space",
+      "id": "vipcafe1994/video-vietsub-auto",
+      "title": "vipcafe1994/video-vietsub-auto",
+      "url": "https://huggingface.co/spaces/vipcafe1994/video-vietsub-auto",
+      "author": "vipcafe1994",
+      "created_at": "2026-06-23T08:01:24Z",
+      "updated_at": "2026-06-23T08:01:24Z",
+      "metrics": {
+        "likes": 0
+      },
+      "tags": [
+        "docker",
+        "region:us"
+      ],
+      "summary": "",
+      "raw": {},
+      "fetched_at": "2026-06-23T08:02:23.833512Z",
+      "score": 0.9993
+    },
+    {
+      "source": "huggingface",
+      "type": "space",
+      "id": "tik-tik061/Lirik",
+      "title": "tik-tik061/Lirik",
+      "url": "https://huggingface.co/spaces/tik-tik061/Lirik",
+      "author": "tik-tik061",
+      "created_at": "2026-06-23T08:01:12Z",
+      "updated_at": "2026-06-23T08:01:12Z",
+      "metrics": {
+        "likes": 0
+      },
+      "tags": [
+        "gradio",
+        "region:us"
+      ],
+      "summary": "",
+      "raw": {},
+      "fetched_at": "2026-06-23T08:02:23.833543Z",
       "score": 0.9992
     },
     {
       "source": "huggingface",
       "type": "space",
-      "id": "afiquee/apple-classifier-api",
-      "title": "afiquee/apple-classifier-api",
-      "url": "https://huggingface.co/spaces/afiquee/apple-classifier-api",
-      "author": "afiquee",
-      "created_at": "2026-06-23T07:20:07Z",
-      "updated_at": "2026-06-23T07:20:09Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "docker",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.250916Z",
-      "score": 0.999
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "rahmamanek11/Autoclipperrahmanaulia",
-      "title": "rahmamanek11/Autoclipperrahmanaulia",
-      "url": "https://huggingface.co/spaces/rahmamanek11/Autoclipperrahmanaulia",
-      "author": "rahmamanek11",
-      "created_at": "2026-06-23T07:19:36Z",
-      "updated_at": "2026-06-23T07:19:36Z",
+      "id": "rashi2323/final_freshness_bit_ekdamfinal",
+      "title": "rashi2323/final_freshness_bit_ekdamfinal",
+      "url": "https://huggingface.co/spaces/rashi2323/final_freshness_bit_ekdamfinal",
+      "author": "rashi2323",
+      "created_at": "2026-06-23T08:01:11Z",
+      "updated_at": "2026-06-23T08:01:11Z",
       "metrics": {
         "likes": 0
       },
@@ -2377,60 +596,18 @@
       ],
       "summary": "",
       "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.250953Z",
-      "score": 0.9987
+      "fetched_at": "2026-06-23T08:02:23.833586Z",
+      "score": 0.9992
     },
     {
       "source": "huggingface",
       "type": "space",
-      "id": "adina-agent/image-processing-agent",
-      "title": "adina-agent/image-processing-agent",
-      "url": "https://huggingface.co/spaces/adina-agent/image-processing-agent",
-      "author": "adina-agent",
-      "created_at": "2026-06-23T07:19:31Z",
-      "updated_at": "2026-06-23T07:19:31Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "docker",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.250991Z",
-      "score": 3.9986
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "Tcpiptc/tomato-ai",
-      "title": "Tcpiptc/tomato-ai",
-      "url": "https://huggingface.co/spaces/Tcpiptc/tomato-ai",
-      "author": "Tcpiptc",
-      "created_at": "2026-06-23T07:19:29Z",
-      "updated_at": "2026-06-23T07:19:29Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "docker",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251022Z",
-      "score": 0.9986
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "wangyiyi666/model-optimizer",
-      "title": "wangyiyi666/model-optimizer",
-      "url": "https://huggingface.co/spaces/wangyiyi666/model-optimizer",
-      "author": "wangyiyi666",
-      "created_at": "2026-06-23T07:19:09Z",
-      "updated_at": "2026-06-23T07:19:09Z",
+      "id": "sagnikdas-ml/EpistemologyChatDefault",
+      "title": "sagnikdas-ml/EpistemologyChatDefault",
+      "url": "https://huggingface.co/spaces/sagnikdas-ml/EpistemologyChatDefault",
+      "author": "sagnikdas-ml",
+      "created_at": "2026-06-23T08:01:07Z",
+      "updated_at": "2026-06-23T08:01:07Z",
       "metrics": {
         "likes": 0
       },
@@ -2440,495 +617,8 @@
       ],
       "summary": "",
       "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251051Z",
-      "score": 0.9984
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "faydubs/sada_api",
-      "title": "faydubs/sada_api",
-      "url": "https://huggingface.co/spaces/faydubs/sada_api",
-      "author": "faydubs",
-      "created_at": "2026-06-23T07:18:53Z",
-      "updated_at": "2026-06-23T07:18:53Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "gradio",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251081Z",
-      "score": 0.9982
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "lhmchyd/nvidia",
-      "title": "lhmchyd/nvidia",
-      "url": "https://huggingface.co/spaces/lhmchyd/nvidia",
-      "author": "lhmchyd",
-      "created_at": "2026-06-23T07:18:32Z",
-      "updated_at": "2026-06-23T07:19:29Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "gradio",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251117Z",
-      "score": 0.998
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "itx88723/media-processor-service",
-      "title": "itx88723/media-processor-service",
-      "url": "https://huggingface.co/spaces/itx88723/media-processor-service",
-      "author": "itx88723",
-      "created_at": "2026-06-23T07:18:00Z",
-      "updated_at": "2026-06-22T17:17:44Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "docker",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251152Z",
-      "score": 0.9976
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "ogulercan/First_agent_template",
-      "title": "ogulercan/First_agent_template",
-      "url": "https://huggingface.co/spaces/ogulercan/First_agent_template",
-      "author": "ogulercan",
-      "created_at": "2026-06-23T07:17:44Z",
-      "updated_at": "2025-05-06T08:19:21Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "gradio",
-        "smolagents",
-        "agent",
-        "smolagent",
-        "tool",
-        "agent-course",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251186Z",
-      "score": 3.9974
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "ecomhassan123/pic_generator",
-      "title": "ecomhassan123/pic_generator",
-      "url": "https://huggingface.co/spaces/ecomhassan123/pic_generator",
-      "author": "ecomhassan123",
-      "created_at": "2026-06-23T07:17:29Z",
-      "updated_at": "2026-06-23T07:17:29Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "gradio",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251215Z",
-      "score": 0.9972
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "sundareshan/pdf2doc",
-      "title": "sundareshan/pdf2doc",
-      "url": "https://huggingface.co/spaces/sundareshan/pdf2doc",
-      "author": "sundareshan",
-      "created_at": "2026-06-23T07:16:52Z",
-      "updated_at": "2026-06-23T07:16:52Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "docker",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251294Z",
-      "score": 0.9968
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "mayanktak15/yolo",
-      "title": "mayanktak15/yolo",
-      "url": "https://huggingface.co/spaces/mayanktak15/yolo",
-      "author": "mayanktak15",
-      "created_at": "2026-06-23T07:16:42Z",
-      "updated_at": "2026-06-23T07:16:42Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "gradio",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251353Z",
-      "score": 0.9967
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "AnnLior/Html_text",
-      "title": "AnnLior/Html_text",
-      "url": "https://huggingface.co/spaces/AnnLior/Html_text",
-      "author": "AnnLior",
-      "created_at": "2026-06-23T07:16:25Z",
-      "updated_at": "2026-06-23T07:20:02Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "static",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251393Z",
-      "score": 0.9965
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "alelice88/3",
-      "title": "alelice88/3",
-      "url": "https://huggingface.co/spaces/alelice88/3",
-      "author": "alelice88",
-      "created_at": "2026-06-23T07:16:23Z",
-      "updated_at": "2026-06-23T07:16:26Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "docker",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251424Z",
-      "score": 0.9965
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "mjawadansari/fusion",
-      "title": "mjawadansari/fusion",
-      "url": "https://huggingface.co/spaces/mjawadansari/fusion",
-      "author": "mjawadansari",
-      "created_at": "2026-06-23T07:16:11Z",
-      "updated_at": "2026-06-23T07:16:13Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "docker",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251453Z",
-      "score": 0.9963
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "rupesh-pandey/Comp-SC",
-      "title": "rupesh-pandey/Comp-SC",
-      "url": "https://huggingface.co/spaces/rupesh-pandey/Comp-SC",
-      "author": "rupesh-pandey",
-      "created_at": "2026-06-23T07:14:14Z",
-      "updated_at": "2026-06-23T07:21:27Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "gradio",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251493Z",
-      "score": 0.995
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "hduddd/page-1",
-      "title": "hduddd/page-1",
-      "url": "https://huggingface.co/spaces/hduddd/page-1",
-      "author": "hduddd",
-      "created_at": "2026-06-23T07:13:50Z",
-      "updated_at": "2026-06-23T07:13:50Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "gradio",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251521Z",
-      "score": 0.9947
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "Arko006/trustworthy-gnn-fraud-api",
-      "title": "Arko006/trustworthy-gnn-fraud-api",
-      "url": "https://huggingface.co/spaces/Arko006/trustworthy-gnn-fraud-api",
-      "author": "Arko006",
-      "created_at": "2026-06-23T07:13:38Z",
-      "updated_at": "2026-06-23T07:13:38Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "docker",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251550Z",
-      "score": 0.9945
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "Ro14n123/fruit-ripeness-detector",
-      "title": "Ro14n123/fruit-ripeness-detector",
-      "url": "https://huggingface.co/spaces/Ro14n123/fruit-ripeness-detector",
-      "author": "Ro14n123",
-      "created_at": "2026-06-23T07:13:12Z",
-      "updated_at": "2026-06-23T07:20:02Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251584Z",
-      "score": 0.9942
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "Saroni-Melodius/music-0",
-      "title": "Saroni-Melodius/music-0",
-      "url": "https://huggingface.co/spaces/Saroni-Melodius/music-0",
-      "author": "Saroni-Melodius",
-      "created_at": "2026-06-23T07:13:09Z",
-      "updated_at": "2026-06-23T07:20:56Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "gradio",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251614Z",
-      "score": 0.9942
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "fatemehkh2090/my-sadtalker",
-      "title": "fatemehkh2090/my-sadtalker",
-      "url": "https://huggingface.co/spaces/fatemehkh2090/my-sadtalker",
-      "author": "fatemehkh2090",
-      "created_at": "2026-06-23T07:13:06Z",
-      "updated_at": "2023-07-19T18:24:48Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "gradio",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251823Z",
-      "score": 0.9942
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "dimas22/uas",
-      "title": "dimas22/uas",
-      "url": "https://huggingface.co/spaces/dimas22/uas",
-      "author": "dimas22",
-      "created_at": "2026-06-23T07:11:34Z",
-      "updated_at": "2026-06-23T07:17:00Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "gradio",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251947Z",
-      "score": 0.9931
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "ForsonX/military-survival-behind-enemy-lines-o7zue",
-      "title": "ForsonX/military-survival-behind-enemy-lines-o7zue",
-      "url": "https://huggingface.co/spaces/ForsonX/military-survival-behind-enemy-lines-o7zue",
-      "author": "ForsonX",
-      "created_at": "2026-06-23T07:11:18Z",
-      "updated_at": "2026-06-23T07:11:20Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "static",
-        "deepsite-v4",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.251992Z",
-      "score": 0.9929
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "momo1001/wenjian",
-      "title": "momo1001/wenjian",
-      "url": "https://huggingface.co/spaces/momo1001/wenjian",
-      "author": "momo1001",
-      "created_at": "2026-06-23T07:11:15Z",
-      "updated_at": "2026-06-23T07:11:15Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "gradio",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.252025Z",
-      "score": 0.9929
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "kerogergs/church-attendance-api",
-      "title": "kerogergs/church-attendance-api",
-      "url": "https://huggingface.co/spaces/kerogergs/church-attendance-api",
-      "author": "kerogergs",
-      "created_at": "2026-06-23T07:11:10Z",
-      "updated_at": "2026-06-23T07:20:19Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "docker",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.252057Z",
-      "score": 0.9928
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "Adityasg/skywatch",
-      "title": "Adityasg/skywatch",
-      "url": "https://huggingface.co/spaces/Adityasg/skywatch",
-      "author": "Adityasg",
-      "created_at": "2026-06-23T07:09:31Z",
-      "updated_at": "2026-06-23T07:09:31Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "docker",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.252180Z",
-      "score": 0.9917
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "nickong4134/moa-fusion",
-      "title": "nickong4134/moa-fusion",
-      "url": "https://huggingface.co/spaces/nickong4134/moa-fusion",
-      "author": "nickong4134",
-      "created_at": "2026-06-23T07:09:09Z",
-      "updated_at": "2026-06-23T07:09:16Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "gradio",
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.252227Z",
-      "score": 0.9914
-    },
-    {
-      "source": "huggingface",
-      "type": "space",
-      "id": "tyy001/Codex_Agnes",
-      "title": "tyy001/Codex_Agnes",
-      "url": "https://huggingface.co/spaces/tyy001/Codex_Agnes",
-      "author": "tyy001",
-      "created_at": "2026-06-23T07:09:06Z",
-      "updated_at": "2026-06-23T07:21:31Z",
-      "metrics": {
-        "likes": 0
-      },
-      "tags": [
-        "region:us"
-      ],
-      "summary": "",
-      "raw": {},
-      "fetched_at": "2026-06-23T07:21:31.252284Z",
-      "score": 0.9914
+      "fetched_at": "2026-06-23T08:02:23.833618Z",
+      "score": 0.9991
     }
   ]
 }
