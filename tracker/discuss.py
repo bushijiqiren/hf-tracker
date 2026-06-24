@@ -82,16 +82,21 @@ def run_discuss(config: dict, source: str = "huggingface") -> None:
             break
 
         messages.append({"role": "user", "content": user_input})
-        conv.add("user", user_input)
         print("AI> ", end="", flush=True)
         reply_parts: list[str] = []
-        for delta in llm.stream(messages):
-            print(delta, end="", flush=True)
-            reply_parts.append(delta)
+        try:
+            for delta in llm.stream(messages):
+                print(delta, end="", flush=True)
+                reply_parts.append(delta)
+        except Exception as exc:
+            print(f"\n⚠️  调用失败：{exc}")
+            messages.pop()  # 撤回这轮提问，不污染后续上下文
+            continue
         print("\n")
         reply = "".join(reply_parts)
-        messages.append({"role": "assistant", "content": reply})
+        conv.add("user", user_input)
         conv.add("assistant", reply)
+        messages.append({"role": "assistant", "content": reply})
 
     _finalize(conv, llm, messages)
 

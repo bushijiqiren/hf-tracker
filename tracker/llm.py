@@ -22,7 +22,13 @@ class LLMClient:
         if not api_key:
             raise RuntimeError(
                 "缺少 DeepSeek API key：在环境变量设 DEEPSEEK_API_KEY，"
-                "或在 config.yaml 的 llm.api_key 配置"
+                "或在 config.yaml 的 llm.api_key 直接填 key"
+            )
+        if "${" in api_key:
+            raise RuntimeError(
+                "llm.api_key 仍是未解析的 ${...} 形式。${NAME} 是环境变量引用——"
+                "要么直接填 key（api_key: sk-xxx），要么写 api_key: ${DEEPSEEK_API_KEY} "
+                "并 export DEEPSEEK_API_KEY=sk-xxx。别把 key 本身放进 ${} 里。"
             )
         from openai import OpenAI
 
