@@ -19,7 +19,9 @@ data/_state/
 *.sqlite
 *.sqlite3
 
-# 系统
+# 系统 / IDE
 .DS_Store
+.idea/
+.vscode/
 
 # 注意：data/<source>/ 下的 JSON 快照与 reports/ 是有意提交的（历史归档），不要忽略
